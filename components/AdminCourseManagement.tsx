@@ -12,12 +12,12 @@ type Result = { error?: string; success?: string };
 
 export default function AdminCourseManagement({ courses }: { courses: AdminCourse[] }) {
   const router = useRouter();
-  const [ascending, setAscending] = useState(true);
+  const [ascending, setAscending] = useState<boolean | null>(null);
   const [message, setMessage] = useState<string>();
   const [deleteCandidate, setDeleteCandidate] = useState<string | null>(null);
   const [pending, startTransition] = useTransition();
   const mutationInFlight = useRef(false);
-  const ordered = useMemo(() => [...courses].sort((a, b) => ascending ? a.sort_order - b.sort_order : b.sort_order - a.sort_order), [courses, ascending]);
+  const ordered = useMemo(() => [...courses].sort((a, b) => ascending === null ? a.title_en.localeCompare(b.title_en) : ascending ? a.sort_order - b.sort_order : b.sort_order - a.sort_order), [courses, ascending]);
 
   const run = (action: (data: FormData) => Promise<Result>, data: FormData) => {
     if (mutationInFlight.current) return;

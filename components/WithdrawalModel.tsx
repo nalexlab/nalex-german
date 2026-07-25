@@ -1,0 +1,4 @@
+"use client";
+import { useState } from "react";
+type WithdrawalModelProps = { title:string; description:string; form:string; button:string; copied:string };
+export default function WithdrawalModel({title,description,form,button,copied}:WithdrawalModelProps){const [hasCopied,setHasCopied]=useState(false);return <section className="rounded-2xl bg-mist p-6"><h2 className="text-xl font-bold text-ink">{title}</h2><p className="mt-2 text-sm">{description}</p><textarea readOnly value={form} className="mt-5 h-72 w-full rounded-xl border border-slate-200 bg-white p-4 text-sm leading-relaxed text-slate-700"/><button onClick={async()=>{await navigator.clipboard.writeText(form);setHasCopied(true)}} className="mt-4 rounded-xl bg-ink px-4 py-2.5 text-sm font-bold text-white">{hasCopied?copied:button}</button></section>}

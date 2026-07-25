@@ -1,0 +1,11 @@
+import Link from "next/link";
+import { ArrowRight } from "lucide-react";
+import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
+import { pageMetadata } from "@/lib/seo";
+
+const categories=[{title:"A1 German",description:"Finally start speaking. You have learned some German on your own or completed a short first course. Now it is time to use what you know in real conversations.",href:"/german-courses/a1"},{title:"A2 German",description:"Turn basic German into real communication. You understand the basics, but speaking still takes too much effort. Build confidence through continuous practice in meaningful situations.",href:"/german-courses/a2"},{title:"B1–B2 German",description:"Stop feeling held back by your German. You have completed several courses, but still hesitate or cannot express yourself as freely as you want. Develop the fluency to communicate naturally and confidently.",href:"/german-courses/b1-b2"}];
+
+export const metadata=pageMetadata({path:"/german-courses",title:"German Courses",description:"Learn German through interactive four-week courses that combine grammar, vocabulary and real communication inside one ongoing story."});
+
+export default function GermanCourses(){return <><Navbar/><main><section className="grid-lines"><div className="mx-auto max-w-7xl px-5 pb-12 pt-20 lg:px-8 lg:pt-24"><h1 className="display text-5xl font-bold sm:text-7xl">German Courses</h1><div className="mt-5 max-w-2xl space-y-5 leading-relaxed text-slate-600"><p className="text-xl font-medium">Find the course that matches your level.</p><p>Every course combines grammar, vocabulary, speaking, listening and reading through one continuous interactive story.</p></div></div></section><section className="mx-auto max-w-7xl px-5 pb-24 pt-8 lg:px-8 lg:pt-12"><div className="grid gap-4 lg:grid-cols-3">{categories.map((category)=><article key={category.href} className="rounded-2xl border border-slate-200 p-7 transition hover:-translate-y-1 hover:shadow-float"><h2 className="display text-3xl font-bold">{category.title}</h2><p className="mt-4 min-h-24 leading-relaxed text-slate-600">{category.description}</p><Link href={category.href} className="mt-8 inline-flex items-center gap-2 text-sm font-bold text-cobalt">Explore course <ArrowRight size={16}/></Link></article>)}</div></section></main><Footer/></>}

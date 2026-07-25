@@ -1,0 +1,144 @@
+{
+  "node": {
+    "4049760b2265b9c4891f6f1a95be385a6e8bee65d8": {
+      "workers": {
+        "app/admin/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cconne%5C%5CDocuments%5C%5CCodex%5C%5C2026-07-17%5C%5Ccreate-a-complete-professional-website-for%5C%5Capp%5C%5Cadmin%5C%5Cactions.ts%22%2C%5B%5B%224049760b2265b9c4891f6f1a95be385a6e8bee65d8%22%2C%22deleteCourse%22%5D%2C%5B%22405bc5363003915a098cdc6283ee429d9852efab7b%22%2C%22toggleCourseVisibility%22%5D%2C%5B%2240a25c3207eaaca119e7204edc1028206e85d8f694%22%2C%22duplicateCourse%22%5D%2C%5B%2240a5734b1626b1809dc3344353081a0abbc84c44b3%22%2C%22saveCourse%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/admin/courses/new/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cconne%5C%5CDocuments%5C%5CCodex%5C%5C2026-07-17%5C%5Ccreate-a-complete-professional-website-for%5C%5Capp%5C%5Cadmin%5C%5Cactions.ts%22%2C%5B%5B%224049760b2265b9c4891f6f1a95be385a6e8bee65d8%22%2C%22deleteCourse%22%5D%2C%5B%22405bc5363003915a098cdc6283ee429d9852efab7b%22%2C%22toggleCourseVisibility%22%5D%2C%5B%2240a25c3207eaaca119e7204edc1028206e85d8f694%22%2C%22duplicateCourse%22%5D%2C%5B%2240a5734b1626b1809dc3344353081a0abbc84c44b3%22%2C%22saveCourse%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/admin/courses/[id]/edit/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cconne%5C%5CDocuments%5C%5CCodex%5C%5C2026-07-17%5C%5Ccreate-a-complete-professional-website-for%5C%5Capp%5C%5Cadmin%5C%5Cactions.ts%22%2C%5B%5B%224049760b2265b9c4891f6f1a95be385a6e8bee65d8%22%2C%22deleteCourse%22%5D%2C%5B%22405bc5363003915a098cdc6283ee429d9852efab7b%22%2C%22toggleCourseVisibility%22%5D%2C%5B%2240a25c3207eaaca119e7204edc1028206e85d8f694%22%2C%22duplicateCourse%22%5D%2C%5B%2240a5734b1626b1809dc3344353081a0abbc84c44b3%22%2C%22saveCourse%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/page": "action-browser",
+        "app/admin/courses/new/page": "action-browser",
+        "app/admin/courses/[id]/edit/page": "action-browser"
+      }
+    },
+    "405bc5363003915a098cdc6283ee429d9852efab7b": {
+      "workers": {
+        "app/admin/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cconne%5C%5CDocuments%5C%5CCodex%5C%5C2026-07-17%5C%5Ccreate-a-complete-professional-website-for%5C%5Capp%5C%5Cadmin%5C%5Cactions.ts%22%2C%5B%5B%224049760b2265b9c4891f6f1a95be385a6e8bee65d8%22%2C%22deleteCourse%22%5D%2C%5B%22405bc5363003915a098cdc6283ee429d9852efab7b%22%2C%22toggleCourseVisibility%22%5D%2C%5B%2240a25c3207eaaca119e7204edc1028206e85d8f694%22%2C%22duplicateCourse%22%5D%2C%5B%2240a5734b1626b1809dc3344353081a0abbc84c44b3%22%2C%22saveCourse%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/admin/courses/new/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cconne%5C%5CDocuments%5C%5CCodex%5C%5C2026-07-17%5C%5Ccreate-a-complete-professional-website-for%5C%5Capp%5C%5Cadmin%5C%5Cactions.ts%22%2C%5B%5B%224049760b2265b9c4891f6f1a95be385a6e8bee65d8%22%2C%22deleteCourse%22%5D%2C%5B%22405bc5363003915a098cdc6283ee429d9852efab7b%22%2C%22toggleCourseVisibility%22%5D%2C%5B%2240a25c3207eaaca119e7204edc1028206e85d8f694%22%2C%22duplicateCourse%22%5D%2C%5B%2240a5734b1626b1809dc3344353081a0abbc84c44b3%22%2C%22saveCourse%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/admin/courses/[id]/edit/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cconne%5C%5CDocuments%5C%5CCodex%5C%5C2026-07-17%5C%5Ccreate-a-complete-professional-website-for%5C%5Capp%5C%5Cadmin%5C%5Cactions.ts%22%2C%5B%5B%224049760b2265b9c4891f6f1a95be385a6e8bee65d8%22%2C%22deleteCourse%22%5D%2C%5B%22405bc5363003915a098cdc6283ee429d9852efab7b%22%2C%22toggleCourseVisibility%22%5D%2C%5B%2240a25c3207eaaca119e7204edc1028206e85d8f694%22%2C%22duplicateCourse%22%5D%2C%5B%2240a5734b1626b1809dc3344353081a0abbc84c44b3%22%2C%22saveCourse%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/page": "action-browser",
+        "app/admin/courses/new/page": "action-browser",
+        "app/admin/courses/[id]/edit/page": "action-browser"
+      }
+    },
+    "40a25c3207eaaca119e7204edc1028206e85d8f694": {
+      "workers": {
+        "app/admin/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cconne%5C%5CDocuments%5C%5CCodex%5C%5C2026-07-17%5C%5Ccreate-a-complete-professional-website-for%5C%5Capp%5C%5Cadmin%5C%5Cactions.ts%22%2C%5B%5B%224049760b2265b9c4891f6f1a95be385a6e8bee65d8%22%2C%22deleteCourse%22%5D%2C%5B%22405bc5363003915a098cdc6283ee429d9852efab7b%22%2C%22toggleCourseVisibility%22%5D%2C%5B%2240a25c3207eaaca119e7204edc1028206e85d8f694%22%2C%22duplicateCourse%22%5D%2C%5B%2240a5734b1626b1809dc3344353081a0abbc84c44b3%22%2C%22saveCourse%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/admin/courses/new/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cconne%5C%5CDocuments%5C%5CCodex%5C%5C2026-07-17%5C%5Ccreate-a-complete-professional-website-for%5C%5Capp%5C%5Cadmin%5C%5Cactions.ts%22%2C%5B%5B%224049760b2265b9c4891f6f1a95be385a6e8bee65d8%22%2C%22deleteCourse%22%5D%2C%5B%22405bc5363003915a098cdc6283ee429d9852efab7b%22%2C%22toggleCourseVisibility%22%5D%2C%5B%2240a25c3207eaaca119e7204edc1028206e85d8f694%22%2C%22duplicateCourse%22%5D%2C%5B%2240a5734b1626b1809dc3344353081a0abbc84c44b3%22%2C%22saveCourse%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/admin/courses/[id]/edit/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cconne%5C%5CDocuments%5C%5CCodex%5C%5C2026-07-17%5C%5Ccreate-a-complete-professional-website-for%5C%5Capp%5C%5Cadmin%5C%5Cactions.ts%22%2C%5B%5B%224049760b2265b9c4891f6f1a95be385a6e8bee65d8%22%2C%22deleteCourse%22%5D%2C%5B%22405bc5363003915a098cdc6283ee429d9852efab7b%22%2C%22toggleCourseVisibility%22%5D%2C%5B%2240a25c3207eaaca119e7204edc1028206e85d8f694%22%2C%22duplicateCourse%22%5D%2C%5B%2240a5734b1626b1809dc3344353081a0abbc84c44b3%22%2C%22saveCourse%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/page": "action-browser",
+        "app/admin/courses/new/page": "action-browser",
+        "app/admin/courses/[id]/edit/page": "action-browser"
+      }
+    },
+    "40a5734b1626b1809dc3344353081a0abbc84c44b3": {
+      "workers": {
+        "app/admin/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cconne%5C%5CDocuments%5C%5CCodex%5C%5C2026-07-17%5C%5Ccreate-a-complete-professional-website-for%5C%5Capp%5C%5Cadmin%5C%5Cactions.ts%22%2C%5B%5B%224049760b2265b9c4891f6f1a95be385a6e8bee65d8%22%2C%22deleteCourse%22%5D%2C%5B%22405bc5363003915a098cdc6283ee429d9852efab7b%22%2C%22toggleCourseVisibility%22%5D%2C%5B%2240a25c3207eaaca119e7204edc1028206e85d8f694%22%2C%22duplicateCourse%22%5D%2C%5B%2240a5734b1626b1809dc3344353081a0abbc84c44b3%22%2C%22saveCourse%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/admin/courses/new/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cconne%5C%5CDocuments%5C%5CCodex%5C%5C2026-07-17%5C%5Ccreate-a-complete-professional-website-for%5C%5Capp%5C%5Cadmin%5C%5Cactions.ts%22%2C%5B%5B%224049760b2265b9c4891f6f1a95be385a6e8bee65d8%22%2C%22deleteCourse%22%5D%2C%5B%22405bc5363003915a098cdc6283ee429d9852efab7b%22%2C%22toggleCourseVisibility%22%5D%2C%5B%2240a25c3207eaaca119e7204edc1028206e85d8f694%22%2C%22duplicateCourse%22%5D%2C%5B%2240a5734b1626b1809dc3344353081a0abbc84c44b3%22%2C%22saveCourse%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/admin/courses/[id]/edit/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cconne%5C%5CDocuments%5C%5CCodex%5C%5C2026-07-17%5C%5Ccreate-a-complete-professional-website-for%5C%5Capp%5C%5Cadmin%5C%5Cactions.ts%22%2C%5B%5B%224049760b2265b9c4891f6f1a95be385a6e8bee65d8%22%2C%22deleteCourse%22%5D%2C%5B%22405bc5363003915a098cdc6283ee429d9852efab7b%22%2C%22toggleCourseVisibility%22%5D%2C%5B%2240a25c3207eaaca119e7204edc1028206e85d8f694%22%2C%22duplicateCourse%22%5D%2C%5B%2240a5734b1626b1809dc3344353081a0abbc84c44b3%22%2C%22saveCourse%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/page": "action-browser",
+        "app/admin/courses/new/page": "action-browser",
+        "app/admin/courses/[id]/edit/page": "action-browser"
+      }
+    },
+    "404e1ca1b2b9d5924c3b18532785b4a4cafed277b5": {
+      "workers": {
+        "app/withdraw-from-contract/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cconne%5C%5CDocuments%5C%5CCodex%5C%5C2026-07-17%5C%5Ccreate-a-complete-professional-website-for%5C%5Capp%5C%5Cwithdraw-from-contract%5C%5Cactions.ts%22%2C%5B%5B%22404e1ca1b2b9d5924c3b18532785b4a4cafed277b5%22%2C%22submitWithdrawal%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/de/vertrag-widerrufen/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cconne%5C%5CDocuments%5C%5CCodex%5C%5C2026-07-17%5C%5Ccreate-a-complete-professional-website-for%5C%5Capp%5C%5Cwithdraw-from-contract%5C%5Cactions.ts%22%2C%5B%5B%22404e1ca1b2b9d5924c3b18532785b4a4cafed277b5%22%2C%22submitWithdrawal%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/withdraw-from-contract/page": "action-browser",
+        "app/de/vertrag-widerrufen/page": "action-browser"
+      }
+    },
+    "407569f257dda5d388824f2df7af9b10e96957d41b": {
+      "workers": {
+        "app/admin/bookings/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cconne%5C%5CDocuments%5C%5CCodex%5C%5C2026-07-17%5C%5Ccreate-a-complete-professional-website-for%5C%5Capp%5C%5Cadmin%5C%5Cbooking-actions.ts%22%2C%5B%5B%22407569f257dda5d388824f2df7af9b10e96957d41b%22%2C%22updateBookingRequestStatus%22%5D%2C%5B%2260db8cbbfaa6e18b13e5d76a97d6d8b38f8700d48c%22%2C%22deleteBookingRequest%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/bookings/page": "rsc"
+      }
+    },
+    "40cf3c9ed5f634778fccb9baf695200d4233368ec9": {
+      "workers": {
+        "app/booking/payment/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cconne%5C%5CDocuments%5C%5CCodex%5C%5C2026-07-17%5C%5Ccreate-a-complete-professional-website-for%5C%5Capp%5C%5Cbooking%5C%5Cactions.ts%22%2C%5B%5B%2240cf3c9ed5f634778fccb9baf695200d4233368ec9%22%2C%22createBankTransferBooking%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/de/buchung/zahlung/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cconne%5C%5CDocuments%5C%5CCodex%5C%5C2026-07-17%5C%5Ccreate-a-complete-professional-website-for%5C%5Capp%5C%5Cbooking%5C%5Cactions.ts%22%2C%5B%5B%2240cf3c9ed5f634778fccb9baf695200d4233368ec9%22%2C%22createBankTransferBooking%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/booking/payment/page": "action-browser",
+        "app/de/buchung/zahlung/page": "action-browser"
+      }
+    },
+    "60db8cbbfaa6e18b13e5d76a97d6d8b38f8700d48c": {
+      "workers": {
+        "app/admin/bookings/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cconne%5C%5CDocuments%5C%5CCodex%5C%5C2026-07-17%5C%5Ccreate-a-complete-professional-website-for%5C%5Capp%5C%5Cadmin%5C%5Cbooking-actions.ts%22%2C%5B%5B%22407569f257dda5d388824f2df7af9b10e96957d41b%22%2C%22updateBookingRequestStatus%22%5D%2C%5B%2260db8cbbfaa6e18b13e5d76a97d6d8b38f8700d48c%22%2C%22deleteBookingRequest%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/bookings/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "wBDLcUFOwO3hvPigcK77874aPpG5lNGHno09kJd1id0="
+}

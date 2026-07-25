@@ -6,7 +6,7 @@ function isAuthorized(request: NextRequest): boolean {
     return false;
   }
   const base64Credentials = authHeader.split(" ")[1];
-  const credentials = Buffer.from(base64Credentials, "base64").toString("utf-8");
+  const credentials = atob(base64Credentials);
   const [user, password] = credentials.split(":");
   return user === process.env.ADMIN_BASIC_USER && password === process.env.ADMIN_BASIC_PASSWORD;
 }

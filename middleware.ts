@@ -1,3 +1,4 @@
+@'
 import { NextResponse, type NextRequest } from "next/server";
 
 function isAuthorized(request: NextRequest): boolean {
@@ -8,7 +9,20 @@ function isAuthorized(request: NextRequest): boolean {
   const base64Credentials = authHeader.split(" ")[1];
   const credentials = atob(base64Credentials);
   const [user, password] = credentials.split(":");
-  return user === process.env.ADMIN_BASIC_USER && password === process.env.ADMIN_BASIC_PASSWORD;
+  const expectedUser = process.env.ADMIN_BASIC_USER;
+  const expectedPassword = process.env.ADMIN_BASIC_PASSWORD;
+
+  console.log("DEBUG auth check:", {
+    receivedUser: user,
+    receivedPasswordLength: password?.length,
+    expectedUserExists: !!expectedUser,
+    expectedPasswordExists: !!expectedPassword,
+    expectedPasswordLength: expectedPassword?.length,
+    userMatches: user === expectedUser,
+    passwordMatches: password === expectedPassword,
+  });
+
+  return user === expectedUser && password === expectedPassword;
 }
 
 export function middleware(request: NextRequest) {
@@ -28,3 +42,4 @@ export function middleware(request: NextRequest) {
 }
 
 export const config = { matcher: ["/((?!_next/|images/|favicon.ico).*)"] };
+'@ | Out-File -Encoding utf8 middleware.ts

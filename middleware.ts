@@ -1,4 +1,3 @@
-@'
 import { NextResponse, type NextRequest } from "next/server";
 
 function isAuthorized(request: NextRequest): boolean {
@@ -42,4 +41,3 @@ export function middleware(request: NextRequest) {
 }
 
 export const config = { matcher: ["/((?!_next/|images/|favicon.ico).*)"] };
-'@ | Out-File -Encoding utf8 middleware.ts

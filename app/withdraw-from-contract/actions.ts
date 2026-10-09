@@ -67,8 +67,8 @@ export async function submitWithdrawal(input: WithdrawalInput): Promise<Withdraw
   let timeout: ReturnType<typeof setTimeout> | undefined;
   try {
     const delivery = Promise.all([
-      transporter.sendMail({ from: `NALEX LAB <${contactEmail}>`, to: contactEmail, replyTo: email, subject: `${de?"Widerruf eingegangen":"Withdrawal received"} – ${bookingReference}`, text: declaration }),
-      transporter.sendMail({ from: `NALEX LAB <${contactEmail}>`, to: email, replyTo: contactEmail, subject: de?"Bestätigung Ihres Widerrufs":"Confirmation of your withdrawal", text: [de?"Wir bestätigen den Eingang Ihrer Widerrufserklärung.":"We confirm receipt of your withdrawal declaration.", "", declaration, "", "NALEX LAB", "Inh. Tatiana Beckmann", "Luhnenstraße 7", "30559 Hannover", "Deutschland", contactEmail, "0511 901223702"].join("\n") }),
+      transporter.sendMail({ from: `NALEX LAB <${config.user}>`, to: contactEmail, replyTo: email, subject: `${de?"Widerruf eingegangen":"Withdrawal received"} – ${bookingReference}`, text: declaration }),
+      transporter.sendMail({ from: `NALEX LAB <${config.user}>`, to: email, replyTo: contactEmail, subject: de?"Bestätigung Ihres Widerrufs":"Confirmation of your withdrawal", text: [de?"Wir bestätigen den Eingang Ihrer Widerrufserklärung.":"We confirm receipt of your withdrawal declaration.", "", declaration, "", "NALEX LAB", "Inh. Tatiana Beckmann", "Luhnenstraße 7", "30559 Hannover", "Deutschland", contactEmail, "0511 901223702"].join("\n") }),
     ]);
     const hardTimeout = new Promise<never>((_, reject) => {
       timeout = setTimeout(() => {

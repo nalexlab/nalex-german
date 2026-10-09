@@ -10,21 +10,21 @@ The provider is:
 
 
 
-Tatiana Beckmann  
+Inh. Tatiana Beckmann  
 
 NALEX LAB  
 
-c/o IP-Management #5094  
+Luhnenstraße 7  
 
-Ludwig-Erhard-Str. 18  
-
-20459 Hamburg  
+30559 Hannover  
 
 Germany  
 
 
 
 Email: info@nalex-german.de  
+
+Telephone: 0511 901223702  
 
 Website: https://nalex-german.de
 
@@ -50,19 +50,19 @@ To exercise your right of withdrawal, you must inform us at:
 
 
 
-Tatiana Beckmann  
+Inh. Tatiana Beckmann  
 
 NALEX LAB  
 
-c/o IP-Management #5094  
+Luhnenstraße 7  
 
-Ludwig-Erhard-Str. 18  
-
-20459 Hamburg  
+30559 Hannover  
 
 Germany  
 
 Email: info@nalex-german.de
+
+Telephone: 0511 901223702
 
 
 
@@ -206,19 +206,19 @@ To:
 
 
 
-Tatiana Beckmann  
+Inh. Tatiana Beckmann  
 
 NALEX LAB  
 
-c/o IP-Management #5094  
+Luhnenstraße 7  
 
-Ludwig-Erhard-Str. 18  
-
-20459 Hamburg  
+30559 Hannover  
 
 Germany  
 
 Email: info@nalex-german.de
+
+Telephone: 0511 901223702
 
 
 
@@ -329,7 +329,6 @@ Last updated: July 2026
 
 
 This English version is provided for the convenience of English-speaking users. The provider is established in Germany, and German law applies. In the event of any discrepancy between this English version and the German-language Widerrufsbelehrung, the German version shall prevail.
-
 
 
 

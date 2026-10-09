@@ -2,7 +2,7 @@
 
 import { revalidatePath } from "next/cache";
 import { adminCourseRequest, getAdminCourse } from "@/lib/admin-courses";
-import { formatCourseDate, formatCoursePrice } from "@/lib/public-courses";
+import { formatCourseDate, formatCoursePriceForSlug } from "@/lib/public-courses";
 
 type BankTransferInput = { courseId: string; firstName: string; lastName: string; email: string; phone?: string; level: string; message?: string; termsAccepted: boolean; privacyAccepted: boolean; withdrawalAccepted: boolean };
 export type BankTransferResult = { error?: string; reference?: string; course?: { title: string; startDate: string; price: string }; customerEmail?: string };
@@ -22,7 +22,7 @@ export async function createBankTransferBooking(input: BankTransferInput): Promi
     const request = created?.[0];
     if (!request?.id) return { error: "Your booking request could not be saved. Please try again." };
     revalidatePath("/admin/bookings");
-    return { reference: request.id, customerEmail: email, course: { title: course.title_en, startDate: formatCourseDate(course.start_date), price: formatCoursePrice(course.price_cents, course.price_prefix_en) } };
+    return { reference: request.id, customerEmail: email, course: { title: course.title_en, startDate: formatCourseDate(course.start_date), price: formatCoursePriceForSlug(course.slug, course.price_cents, course.price_prefix_en, "en") } };
   } catch (error) {
     console.error("[booking] Bank transfer request failed", error instanceof Error ? error.message : error);
     return { error: "Your booking request could not be saved. Please try again or contact us." };

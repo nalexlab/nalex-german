@@ -4,14 +4,14 @@ Diese Widerrufsbelehrung gilt für Verbraucher im Sinne des § 13 BGB, die über
 
 Anbieter ist:
 
-Tatiana Beckmann  
+Inh. Tatiana Beckmann  
 NALEX LAB  
-c/o IP-Management #5094  
-Ludwig-Erhard-Str. 18  
-20459 Hamburg  
+Luhnenstraße 7  
+30559 Hannover  
 Deutschland  
 
 E-Mail: info@nalex-german.de  
+Telefon: 0511 901223702  
 Website: https://nalex-german.de
 
 ## Widerrufsrecht
@@ -24,13 +24,13 @@ Der Vertrag kommt zustande, sobald wir Ihre verbindliche Buchung angenommen und 
 
 Um Ihr Widerrufsrecht auszuüben, müssen Sie uns
 
-Tatiana Beckmann  
+Inh. Tatiana Beckmann  
 NALEX LAB  
-c/o IP-Management #5094  
-Ludwig-Erhard-Str. 18  
-20459 Hamburg  
+Luhnenstraße 7  
+30559 Hannover  
 Deutschland  
 E-Mail: info@nalex-german.de
+Telefon: 0511 901223702
 
 mittels einer eindeutigen Erklärung, beispielsweise durch einen mit der Post versandten Brief oder eine E-Mail, über Ihren Entschluss informieren, diesen Vertrag zu widerrufen.
 
@@ -106,13 +106,13 @@ Wenn Sie den Vertrag widerrufen wollen, können Sie dieses Formular ausfüllen u
 
 An:
 
-Tatiana Beckmann  
+Inh. Tatiana Beckmann  
 NALEX LAB  
-c/o IP-Management #5094  
-Ludwig-Erhard-Str. 18  
-20459 Hamburg  
+Luhnenstraße 7  
+30559 Hannover  
 Deutschland  
 E-Mail: info@nalex-german.de
+Telefon: 0511 901223702
 
 Hiermit widerrufe(n) ich/wir (*) den von mir/uns (*) abgeschlossenen Vertrag über die Erbringung der folgenden Dienstleistung:
 

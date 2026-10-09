@@ -4,14 +4,14 @@
 
 The controller responsible for data processing within the meaning of the General Data Protection Regulation (GDPR) and other national data protection laws of the member states, as well as other data protection provisions, is:
 
-Tatiana Beckmann
+Inh. Tatiana Beckmann
 NALEX LAB
-c/o IP-Management #5094
-Ludwig-Erhard-Str. 18
-20459 Hamburg
+Luhnenstraße 7
+30559 Hannover
 Germany
 
 Email: info@nalex-german.de
+Telephone: 0511 901223702
 Website: https://nalex-german.de
 
 If you have any questions or concerns regarding data protection, you are welcome to contact us at any time using the email address stated above.

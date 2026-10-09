@@ -3,6 +3,8 @@
 import { useState } from "react";
 import { submitWithdrawal } from "@/app/withdraw-from-contract/actions";
 
+const actionTimeoutMs = 15_000;
+
 export default function WithdrawalForm(){
   const [error,setError]=useState<string>();
   const [submitted,setSubmitted]=useState(false);
@@ -14,9 +16,13 @@ export default function WithdrawalForm(){
     setError(undefined);
     setSubmitting(true);
     try{
-      const result=await submitWithdrawal({fullName:String(data.get("fullName")??""),email:String(data.get("email")??""),bookingReference:String(data.get("bookingReference")??""),message:String(data.get("message")??""),website:String(data.get("website")??"")});
+      const result=await Promise.race([
+        submitWithdrawal({fullName:String(data.get("fullName")??""),email:String(data.get("email")??""),bookingReference:String(data.get("bookingReference")??""),message:String(data.get("message")??""),website:String(data.get("website")??"")}),
+        new Promise<never>((_,reject)=>window.setTimeout(()=>reject(new Error("Withdrawal action timed out.")),actionTimeoutMs)),
+      ]);
       if(result.error){setError(result.error);return;}
-      if(result.success)setSubmitted(true);
+      if(result.success){setSubmitted(true);return;}
+      setError("Your withdrawal could not be submitted. Please email us directly at info@nalex-german.de.");
     }catch{setError("Your withdrawal could not be submitted. Please email us directly at info@nalex-german.de.");}
     finally{setSubmitting(false);}
   };

@@ -5,15 +5,15 @@ title: Impressum
 
 ### Anbieter gemäß § 5 DDG
 
-Tatiana Beckmann
+Inh. Tatiana Beckmann
 
 tätig unter der Bezeichnung
 
 NALEX LAB
 
-c/o IP-Management #5094
-Ludwig-Erhard-Str. 18
-20459 Hamburg
+Luhnenstraße 7
+30559 Hannover
+Germany
 
 ### Kontakt
 
@@ -21,15 +21,15 @@ E-Mail
 info@nalex-german.de
 
 Telefon
-+49 152 0925 0609
+0511 901223702
 
 ## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
 
-Tatiana Beckmann
+Inh. Tatiana Beckmann
 
-c/o IP-Management #5094
-Ludwig-Erhard-Str. 18
-20459 Hamburg
+Luhnenstraße 7
+30559 Hannover
+Germany
 
 ## Freiberufliche Tätigkeit
 

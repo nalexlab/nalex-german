@@ -4,14 +4,14 @@
 
 Verantwortlicher im Sinne der Datenschutz-Grundverordnung (DSGVO) und sonstiger nationaler Datenschutzgesetze der Mitgliedstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist:
 
-Tatiana Beckmann
+Inh. Tatiana Beckmann
 NALEX LAB
-c/o IP-Management #5094
-Ludwig-Erhard-Str. 18
-20459 Hamburg
+Luhnenstraße 7
+30559 Hannover
 Deutschland
 
 E-Mail: info@nalex-german.de
+Telefon: 0511 901223702
 Website: https://nalex-german.de
 
 Für Fragen und Anliegen zum Datenschutz können Sie sich jederzeit unter der oben genannten E-Mail-Adresse an uns wenden.

@@ -8,6 +8,15 @@ type WithdrawalResult = { error?: string; success?: true };
 
 const value = (input: string | undefined) => input?.trim() ?? "";
 const emailPattern = /^\S+@\S+\.\S+$/;
+const contactEmail = "info@nalex-german.de";
+const smtpTimeoutMs = 12_000;
+
+class SmtpTimeoutError extends Error {
+  constructor() {
+    super(`SMTP operation exceeded ${smtpTimeoutMs} ms.`);
+    this.name = "SmtpTimeoutError";
+  }
+}
 
 function smtpConfig() {
   const host = value(process.env.SMTP_HOST);
@@ -15,9 +24,8 @@ function smtpConfig() {
   const secureValue = value(process.env.SMTP_SECURE).toLowerCase();
   const user = value(process.env.SMTP_USER);
   const password = process.env.SMTP_PASSWORD?.trim() ?? "";
-  const withdrawalTo = value(process.env.WITHDRAWAL_TO_EMAIL);
-  if (!host || !Number.isInteger(port) || port <= 0 || !user || !password || !withdrawalTo || !["true", "false"].includes(secureValue)) return null;
-  return { host, port, secure: secureValue === "true", user, password, withdrawalTo };
+  if (!host || !Number.isInteger(port) || port <= 0 || !user || !password || !["true", "false"].includes(secureValue)) return null;
+  return { host, port, secure: secureValue === "true", user, password };
 }
 
 export async function submitWithdrawal(input: WithdrawalInput): Promise<WithdrawalResult> {
@@ -47,14 +55,35 @@ export async function submitWithdrawal(input: WithdrawalInput): Promise<Withdraw
     `${de?"Eingangsdatum":"Date of receipt"}: ${dateOfReceipt}`,
     `${de?"Eingangszeit":"Time of receipt"}: ${timeOfReceipt} (Europe/Berlin)`,
   ].join("\n");
-  const transporter = nodemailer.createTransport({ host: config.host, port: config.port, secure: config.secure, auth: { user: config.user, pass: config.password } });
+  const transporter = nodemailer.createTransport({
+    host: config.host,
+    port: config.port,
+    secure: config.secure,
+    auth: { user: config.user, pass: config.password },
+    connectionTimeout: 8_000,
+    greetingTimeout: 8_000,
+    socketTimeout: 10_000,
+  });
 
+  let timeout: ReturnType<typeof setTimeout> | undefined;
   try {
-    await transporter.sendMail({ from: config.user, to: config.withdrawalTo, replyTo: email, subject: `${de?"Widerruf eingegangen":"Withdrawal received"} – ${bookingReference}`, text: declaration });
-    await transporter.sendMail({ from: config.user, to: email, replyTo: config.withdrawalTo, subject: de?"Bestätigung Ihres Widerrufs":"Confirmation of your withdrawal", text: [de?"Wir bestätigen den Eingang Ihrer Widerrufserklärung.":"We confirm receipt of your withdrawal declaration.", "", declaration, "", "NALEX LAB", "Tatiana Beckmann", "Ludwig-Erhard-Str. 18", "20459 Hamburg", "info@nalex-german.de"].join("\n") });
+    const delivery = Promise.all([
+      transporter.sendMail({ from: `NALEX LAB <${contactEmail}>`, to: contactEmail, replyTo: email, subject: `${de?"Widerruf eingegangen":"Withdrawal received"} – ${bookingReference}`, text: declaration }),
+      transporter.sendMail({ from: `NALEX LAB <${contactEmail}>`, to: email, replyTo: contactEmail, subject: de?"Bestätigung Ihres Widerrufs":"Confirmation of your withdrawal", text: [de?"Wir bestätigen den Eingang Ihrer Widerrufserklärung.":"We confirm receipt of your withdrawal declaration.", "", declaration, "", "NALEX LAB", "Inh. Tatiana Beckmann", "Luhnenstraße 7", "30559 Hannover", "Deutschland", contactEmail, "0511 901223702"].join("\n") }),
+    ]);
+    const hardTimeout = new Promise<never>((_, reject) => {
+      timeout = setTimeout(() => {
+        transporter.close();
+        reject(new SmtpTimeoutError());
+      }, smtpTimeoutMs);
+    });
+    await Promise.race([delivery, hardTimeout]);
     return { success: true };
   } catch (error) {
     console.error("[withdrawal] SMTP delivery failed", error instanceof Error ? error.message : "Unknown SMTP error");
     return { error: de?"Ihr Widerruf konnte nicht übermittelt werden. Bitte schreiben Sie uns direkt an info@nalex-german.de.":"Your withdrawal could not be submitted. Please email us directly at info@nalex-german.de." };
+  } finally {
+    if (timeout) clearTimeout(timeout);
+    transporter.close();
   }
 }

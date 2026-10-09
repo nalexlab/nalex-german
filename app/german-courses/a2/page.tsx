@@ -1,6 +1,6 @@
-import ConcreteCourseListPage from "@/components/ConcreteCourseListPage";
-import { A2FaqSection, faqItems } from "@/components/A2CourseContent";
-import { FaqStructuredData } from "@/components/StructuredData";
+import SpecialFormatPage from "@/components/SpecialFormatPage";
 import { pageMetadata } from "@/lib/seo";
-export const metadata=pageMetadata({path:"/german-courses/a2",title:"A2 German Course",description:"Build confidence in German with meaningful conversations, continuous practice and one interactive story."});
-export default function A2(){return <ConcreteCourseListPage title="A2 German" description="Build confidence through meaningful conversations and continuous practice." category="A2" slugPrefix="a2" afterContent={<><FaqStructuredData items={faqItems}/><A2FaqSection/></>}/>}
+
+export const metadata=pageMetadata({path:"/german-courses/a2",title:"Online A2 German Refresher Course",description:"Refresh A2 German online in four weeks with 24 lessons. Consolidate existing A2 knowledge and close gaps before B1."});
+
+export default function A2Refresher(){return <SpecialFormatPage locale="en" eyebrow="A2+ Refresher · Online" title="A2+ Refresher" intro="Consolidate your existing A2 German, refresh key knowledge and close gaps before moving on to B1." duration="4 weeks" schedule="Monday, Wednesday, Friday · 12:00–13:30" units="24 units of 45 minutes" price="€109" purposeTitle="Consolidate A2 German" purpose="This format is for learners who have already completed A2 or have equivalent knowledge and want to strengthen it before B1." boundary="Consolidation of grammar, vocabulary and expression at A2 level – as preparation for B1." audienceTitle="For learners with A2 knowledge" audience="Suitable if important structures are not yet secure or if you want to refresh your A2 German before the next level." contentTitle="The focus" content={["Consolidate existing A2 knowledge","Identify uncertainties and gaps","Build a firmer foundation for B1"]} included={["Materials included","Course book included"]} emphasizeIncluded schema={{name:"Online A2+ German Refresher",description:"Four-week online refresher course for consolidating existing A2 German and closing gaps before B1.",price:"109",url:"/german-courses/a2",workload:"24 units of 45 minutes"}}/>;}

@@ -6,14 +6,13 @@
 
 Diese Allgemeinen Geschäftsbedingungen (nachfolgend „AGB") gelten für sämtliche Verträge über die Buchung von Sprachkursen und sonstigen Kursformaten (z. B. Crime Reading Club, Project Simulation Lab), die zwischen
 
-Tatiana Beckmann
+Inh. Tatiana Beckmann
 handelnd unter den Bezeichnungen „NALEX German Practice" und „NALEX LAB"
-c/o IP-Management #5094
-Ludwig-Erhard-Str. 18
-20459 Hamburg
+Luhnenstraße 7
+30559 Hannover
 Deutschland
 
-Telefon: +49 152 0925 0609
+Telefon: 0511 901223702
 E-Mail: info@nalex-german.de
 Website: https://nalex-german.de
 

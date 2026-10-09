@@ -38,18 +38,28 @@ function getConfig() {
 }
 
 async function requestCourses(query: string): Promise<PublicCourse[]> {
-  const { url, key } = getConfig();
-  const response = await fetch(`${url}/rest/v1/courses?${query}`, {
-    headers: { apikey: key, Authorization: `Bearer ${key}` },
-    cache: "no-store",
-    signal: AbortSignal.timeout(10_000),
-  });
+  let requestUrl = "Supabase course endpoint";
+  try {
+    const { url, key } = getConfig();
+    requestUrl = `${url}/rest/v1/courses?${query}`;
+    const response = await fetch(requestUrl, {
+      headers: { apikey: key, Authorization: `Bearer ${key}` },
+      cache: "no-store",
+      signal: AbortSignal.timeout(10_000),
+    });
 
-  if (!response.ok) {
-    throw new Error(`Public course request failed with ${response.status}.`);
+    if (!response.ok) {
+      throw new Error(`Public course request failed with ${response.status}.`);
+    }
+
+    return await response.json() as PublicCourse[];
+  } catch (error) {
+    console.error("[public-course] Course request failed", {
+      url: requestUrl,
+      message: error instanceof Error ? error.message : String(error),
+    });
+    return [];
   }
-
-  return response.json() as Promise<PublicCourse[]>;
 }
 
 /** Resolves the concrete course selected by the direct booking URL. */
@@ -106,3 +116,6 @@ export const formatCourseDate = (date: string | null, locale: "en" | "de-DE" = "
 
 export const formatCoursePrice = (cents: number, prefix: string | null) =>
   `${prefix ? `${prefix} ` : ""}EUR ${(cents / 100).toLocaleString("en-GB", { maximumFractionDigits: 2 })}`;
+
+export const formatCoursePriceForSlug = (slug: string, cents: number, prefix: string | null, locale: "en" | "de") =>
+  slug.startsWith("a2") ? (locale === "de" ? "109 €" : "€109") : formatCoursePrice(cents, prefix);

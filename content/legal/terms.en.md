@@ -6,14 +6,13 @@
 
 These General Terms and Conditions (hereinafter "GTC") apply to all contracts for the booking of language courses and other course formats (e.g. Crime Reading Club, Project Simulation Lab) concluded between
 
-Tatiana Beckmann
+Inh. Tatiana Beckmann
 trading under the names "NALEX German Practice" and "NALEX LAB"
-c/o IP-Management #5094
-Ludwig-Erhard-Str. 18
-20459 Hamburg
+Luhnenstraße 7
+30559 Hannover
 Germany
 
-Telephone: +49 152 0925 0609
+Telephone: 0511 901223702
 Email: info@nalex-german.de
 Website: https://nalex-german.de
 

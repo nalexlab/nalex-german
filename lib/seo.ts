@@ -5,7 +5,7 @@ const defaultImage = `${siteUrl}/images/courses/default.jpg`;
 
 const equivalents: Record<string, string> = {
   "/": "/de", "/german-courses": "/de/deutschkurse", "/german-courses/a1": "/de/deutschkurse/a1", "/german-courses/a2": "/de/deutschkurse/a2", "/german-courses/b1-b2": "/de/deutschkurse/b1-b2",
-  "/professional-german": "/de/deutsch-fuer-den-beruf", "/reading-club": "/de/leseclub", "/for-companies": "/de/fuer-unternehmen", "/booking": "/de/buchung",
+  "/professional-german": "/de/deutsch-fuer-den-beruf", "/professional-german/technical-german": "/de/deutsch-fuer-den-beruf/technisches-deutsch", "/reading-club": "/de/leseclub", "/for-companies": "/de/fuer-unternehmen", "/booking": "/de/buchung",
   "/booking/enrol": "/de/buchung/anmelden", "/booking/payment": "/de/buchung/zahlung", "/booking/trial": "/de/buchung/probestunde",
   "/imprint": "/impressum", "/privacy-policy": "/datenschutz", "/terms": "/agb", "/withdrawal": "/widerruf", "/cookie-policy": "/cookies", "/withdraw-from-contract": "/de/vertrag-widerrufen",
 };

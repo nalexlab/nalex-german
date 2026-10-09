@@ -7,12 +7,12 @@ import { usePathname } from "next/navigation";
 import { localizedPath, type Locale } from "@/lib/locale-routes";
 
 const englishLinks = [
-  ["Home", "/"], ["German Courses", "/german-courses"], ["Professional German", "/professional-german"],
-  ["Reading Club", "/reading-club"], ["For Companies", "/for-companies"], ["Courses & Dates", "/booking"], ["About", "/#about"], ["Contact", "/#contact"],
+  ["Home", "/"], ["A2+ Consolidation", "/german-courses/a2"], ["B1+ Conversation", "/german-courses/b1-b2"],
+  ["Technical German", "/professional-german/technical-german"], ["About", "/#about"], ["Contact", "/#contact"],
 ];
 const germanLinks = [
-  ["Startseite", "/de"], ["Deutschkurse", "/de/deutschkurse"], ["Deutsch für den Beruf", "/de/deutsch-fuer-den-beruf"],
-  ["Leseclub", "/de/leseclub"], ["Für Unternehmen", "/de/fuer-unternehmen"], ["Kurse & Termine", "/de/buchung"], ["Über uns", "/de#about"], ["Kontakt", "/de#contact"],
+  ["Start", "/de"], ["A2+ Vertiefung", "/de/deutschkurse/a2"], ["B1+ Konversation", "/de/deutschkurse/b1-b2"],
+  ["Technisches Deutsch", "/de/deutsch-fuer-den-beruf/technisches-deutsch"], ["Über NALEX", "/de#about"], ["Kontakt", "/de#contact"],
 ];
 
 export default function Navbar({ locale = "en" }: { locale?: Locale }) {
@@ -22,7 +22,7 @@ export default function Navbar({ locale = "en" }: { locale?: Locale }) {
   const otherLocale = locale === "en" ? "de" : "en";
   const switchHref = `${localizedPath(pathname, otherLocale)}${query ? `?${query}` : ""}`;
   const links = locale === "en" ? englishLinks : germanLinks;
-  const coursesLabel = locale === "en" ? "Courses & Dates" : "Kurse & Termine";
+  const coursesLabel = locale === "en" ? "Dates & Prices" : "Termine & Preise";
 
   useEffect(() => setQuery(window.location.search.slice(1)), []);
 

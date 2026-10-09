@@ -1,6 +1,6 @@
-import ConcreteCourseListPage from "@/components/ConcreteCourseListPage";
-import { B1B2FaqSection, faqItems } from "@/components/B1B2CourseContent";
-import { FaqStructuredData } from "@/components/StructuredData";
+import SpecialFormatPage from "@/components/SpecialFormatPage";
 import { pageMetadata } from "@/lib/seo";
-export const metadata=pageMetadata({path:"/german-courses/b1-b2",title:"B1–B2 German Course",description:"Develop fluent, confident German communication for professional and everyday situations in a B1–B2 course."});
-export default function B1B2(){return <ConcreteCourseListPage title="B1–B2 German" description="Communicate naturally in more complex professional and everyday situations." category="B1–B2" slugPrefix="b1-b2" afterContent={<><FaqStructuredData items={faqItems}/><B1B2FaqSection/></>}/>}
+
+export const metadata=pageMetadata({path:"/german-courses/b1-b2",title:"Online B1 German Conversation Course",description:"Online German conversation practice from B1: four weeks of regular speaking practice on Saturdays, 8 units for €49."});
+
+export default function B1Conversation(){return <SpecialFormatPage locale="en" eyebrow="B1+ Conversation · Online" title="B1+ Conversation" intro="Regular speaking practice for learners from B1 who want to use their German actively and become more confident in conversation." duration="4 weeks" schedule="Saturday · 11:00–12:30" units="8 units of 45 minutes" price="€49" purposeTitle="Speak German regularly" purpose="This format provides a fixed weekly setting for active German conversation from level B1." boundary="Regular speaking practice with a focus on active language use, vocabulary and confidence in conversation." audienceTitle="For learners from B1" audience="Suitable if you already have B1 German and want to develop consistent speaking practice." contentTitle="The focus" content={["Use German actively each week","Become more confident in conversation","Build speaking practice into a regular routine"]} included={["Materials included"]} schema={{name:"Online B1+ German Conversation",description:"Four-week online speaking practice for learners from B1, held on Saturdays with 8 teaching units.",price:"49",url:"/german-courses/b1-b2",workload:"8 units of 45 minutes"}}/>;}

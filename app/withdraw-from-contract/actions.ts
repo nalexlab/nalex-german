@@ -20,12 +20,10 @@ class SmtpTimeoutError extends Error {
 
 function smtpConfig() {
   const host = value(process.env.SMTP_HOST);
-  const port = Number(value(process.env.SMTP_PORT));
-  const secureValue = value(process.env.SMTP_SECURE).toLowerCase();
   const user = value(process.env.SMTP_USER);
   const password = process.env.SMTP_PASSWORD?.trim() ?? "";
-  if (!host || !Number.isInteger(port) || port <= 0 || !user || !password || !["true", "false"].includes(secureValue)) return null;
-  return { host, port, secure: secureValue === "true", user, password };
+  if (!host || !user || !password) return null;
+  return { host, user, password };
 }
 
 export async function submitWithdrawal(input: WithdrawalInput): Promise<WithdrawalResult> {
@@ -57,8 +55,9 @@ export async function submitWithdrawal(input: WithdrawalInput): Promise<Withdraw
   ].join("\n");
   const transporter = nodemailer.createTransport({
     host: config.host,
-    port: config.port,
-    secure: config.secure,
+    port: 587,
+    secure: false,
+    requireTLS: true,
     auth: { user: config.user, pass: config.password },
     connectionTimeout: 8_000,
     greetingTimeout: 8_000,

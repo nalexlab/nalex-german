@@ -1,3 +1,3 @@
-import { redirect } from "next/navigation";
+import { notFound } from "next/navigation";
 
-export default function B1B2Reading(){redirect("/reading-club");}
+export default function B1B2Reading(){notFound();}

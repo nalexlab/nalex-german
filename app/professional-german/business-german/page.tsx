@@ -1,3 +1,3 @@
-import { redirect } from "next/navigation";
+import { notFound } from "next/navigation";
 
-export default function BusinessGerman(){redirect("/professional-german");}
+export default function BusinessGerman(){notFound();}

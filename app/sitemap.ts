@@ -5,7 +5,7 @@ const paths = [
   "", "/de",
   "/german-courses/a2", "/german-courses/b1-b2", "/professional-german/technical-german",
   "/de/deutschkurse/a2", "/de/deutschkurse/b1-b2", "/de/deutsch-fuer-den-beruf/technisches-deutsch",
-  "/for-companies", "/de/fuer-unternehmen", "/booking", "/de/buchung",
+  "/booking", "/de/buchung",
   "/imprint", "/impressum", "/privacy-policy", "/datenschutz", "/terms", "/agb", "/withdrawal", "/widerruf", "/cookie-policy", "/cookies",
 ];
 

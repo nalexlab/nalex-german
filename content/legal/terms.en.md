@@ -4,7 +4,7 @@
 
 ### 1.1 Provider
 
-These General Terms and Conditions (hereinafter "GTC") apply to all contracts for the booking of language courses and other course formats (e.g. Crime Reading Club, Project Simulation Lab) concluded between
+These General Terms and Conditions (hereinafter "GTC") apply to all contracts for the booking of language courses and other course formats concluded between
 
 Inh. Tatiana Beckmann
 trading under the names "NALEX German Practice" and "NALEX LAB"
@@ -37,7 +37,7 @@ These GTC apply in the version published on the website at the time of the respe
 The Provider offers the following services via the website https://nalex-german.de:
 
 - Online group language courses in German as a foreign language at various proficiency levels (including A2, B1/B2, C1) in the form of live video conference courses with a limited number of participants,
-- the "Crime Reading Club" as an optional supplementary format at various proficiency levels (A2, B1, B1+/B2+, B2+/C1),
+- supplementary course formats as described in the respective course description,
 - the "Project Simulation Lab" for engineers and technical professionals,
 - as well as access to the NALEX Train App and the associated learning platform as part of the respective booked courses.
 
@@ -116,7 +116,7 @@ With every course booking, the Participant receives access to the NALEX Train Ap
 
 ### 5.2 External Course Materials
 
-For certain course formats, in particular the Crime Reading Club, the Participant is required to independently purchase external reading materials (e.g. titles published by Klett Verlag). This is expressly indicated on the relevant booking page. The purchase of such external materials is made at the Participant's own expense directly from the respective provider of the materials; any corresponding purchase contract is concluded exclusively between the Participant and the respective third-party provider.
+For certain course formats, the Participant is required to independently purchase external reading materials (e.g. titles published by Klett Verlag). This is expressly indicated on the relevant booking page. The purchase of such external materials is made at the Participant's own expense directly from the respective provider of the materials; any corresponding purchase contract is concluded exclusively between the Participant and the respective third-party provider.
 
 ### 5.3 Usage Rights to Course Materials
 

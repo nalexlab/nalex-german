@@ -1,8 +1,0 @@
-{
-  "/page": "app/page.js",
-  "/professional-german/page": "app/professional-german/page.js",
-  "/admin/page": "app/admin/page.js",
-  "/admin/courses/new/page": "app/admin/courses/new/page.js",
-  "/admin/bookings/page": "app/admin/bookings/page.js",
-  "/admin/courses/[id]/edit/page": "app/admin/courses/[id]/edit/page.js"
-}

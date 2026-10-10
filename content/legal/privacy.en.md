@@ -157,29 +157,6 @@ The legal basis for the establishment and maintenance of the customer account is
 
 You may have your customer account deleted at any time via the corresponding function on our Website or by informal notice to info@nalex-german.de. Following deletion of the customer account, the corresponding data will be deleted, unless statutory retention obligations or other legitimate interests (e.g. the assertion, exercise, or defence of legal claims) preclude deletion.
 
-## 13. Supabase (Database, Authentication, and Storage)
-
-### 13.1 Scope of Processing
-
-For the technical implementation of our online offering, in particular for the storage of user and course data, for authentication (e.g. login to a customer account), and for the storage of files, we use the service Supabase, provided by Supabase, Inc., 970 Toa Payoh North #07-04, Singapore, or its European infrastructure partners (hereinafter "Supabase").
-
-Depending on your use of our Offering, the following data may in particular be processed and stored via Supabase:
-
-- Registration and account data (e.g. name, email address, password hash)
-- Authentication data (e.g. session tokens, login timestamps)
-- Booking and participant data in connection with our language courses
-- Files uploaded by users, insofar as a corresponding function is offered
-
-### 13.2 Purpose and Legal Basis
-
-The use of Supabase serves to technically provide the database, authentication, and storage functions of our online offering, and thus the performance of our contractual relationships with you (Art. 6 (1)(b) GDPR), as well as our legitimate interest in a reliable, secure, and scalable technical infrastructure (Art. 6 (1)(f) GDPR).
-
-### 13.3 Data Processing Agreement and Transfer to Third Countries
-
-Where required, we have entered into a data processing agreement with Supabase pursuant to Art. 28 GDPR. Insofar as the use of Supabase involves the transfer of personal data to third countries outside the European Economic Area, we ensure an adequate level of data protection, in particular through the conclusion of the EU Standard Contractual Clauses (Art. 46 (2)(c) GDPR) and, where applicable, additional technical and organisational measures.
-
-Further information on data protection at Supabase is available at: https://supabase.com/privacy
-
 ## 14. AI Features (Only Where Actively Used by the User)
 
 Insofar as we offer optional, AI-supported features on our Website (for example, to support learning, to answer questions, or to automatically evaluate exercises), these features are used exclusively where you actively use or invoke them.
@@ -251,7 +228,6 @@ In the course of our business activities, we disclose personal data to third par
 
 - Vercel Inc. (hosting service provider, see Section 4)
 - IONOS SE (domain management, see Section 5)
-- Supabase, Inc. or its European infrastructure partners (database, authentication, and storage service provider, see Section 13)
 - PayPal (Europe) S.à r.l. et Cie, S.C.A. (payment service provider, see Section 15), where you select this payment method
 - AI service providers used, where applicable (see Section 14), insofar as you actively use the corresponding features
 - our tax advisor or accounting department, insofar as required to comply with statutory obligations

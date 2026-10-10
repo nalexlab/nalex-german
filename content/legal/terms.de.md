@@ -4,7 +4,7 @@
 
 ### 1.1 Anbieter
 
-Diese Allgemeinen Geschäftsbedingungen (nachfolgend „AGB") gelten für sämtliche Verträge über die Buchung von Sprachkursen und sonstigen Kursformaten (z. B. Crime Reading Club, Project Simulation Lab), die zwischen
+Diese Allgemeinen Geschäftsbedingungen (nachfolgend „AGB") gelten für sämtliche Verträge über die Buchung von Sprachkursen und sonstigen Kursformaten, die zwischen
 
 Inh. Tatiana Beckmann
 handelnd unter den Bezeichnungen „NALEX German Practice" und „NALEX LAB"
@@ -37,7 +37,7 @@ Diese AGB gelten in ihrer zum Zeitpunkt der jeweiligen Buchung auf der Website v
 Der Anbieter bietet über die Website https://nalex-german.de folgende Leistungen an:
 
 - Online-Gruppensprachkurse Deutsch als Fremdsprache in verschiedenen Niveaustufen (u. a. A2, B1/B2, C1) in Form von live durchgeführten Videokonferenz-Kursen mit begrenzter Teilnehmerzahl,
-- den „Crime Reading Club" als optionales Zusatzformat in verschiedenen Niveaustufen (A2, B1, B1+/B2+, B2+/C1),
+- ergänzende Kursformate entsprechend der jeweiligen Kursbeschreibung,
 - das „Project Simulation Lab" für Ingenieure und technische Fachkräfte,
 - sowie den Zugang zur NALEX Train App und der zugehörigen Lernplattform als Bestandteil der jeweils gebuchten Kurse.
 
@@ -116,7 +116,7 @@ Mit jeder Kursbuchung erhält der Teilnehmer für die Dauer des jeweiligen Kurse
 
 ### 5.2 Externe Kursmaterialien
 
-Bei bestimmten Kursformaten, insbesondere im Rahmen des Crime Reading Clubs, ist der eigenständige Erwerb externer Lektüre (z. B. Titel des Klett-Verlags) durch den Teilnehmer erforderlich. Dies wird auf der jeweiligen Buchungsseite ausdrücklich ausgewiesen. Der Erwerb solcher externer Materialien erfolgt auf eigene Kosten des Teilnehmers direkt beim jeweiligen Anbieter der Materialien; ein entsprechender Kaufvertrag kommt ausschließlich zwischen dem Teilnehmer und dem jeweiligen Drittanbieter zustande.
+Bei bestimmten Kursformaten ist der eigenständige Erwerb externer Lektüre (z. B. Titel des Klett-Verlags) durch den Teilnehmer erforderlich. Dies wird auf der jeweiligen Buchungsseite ausdrücklich ausgewiesen. Der Erwerb solcher externer Materialien erfolgt auf eigene Kosten des Teilnehmers direkt beim jeweiligen Anbieter der Materialien; ein entsprechender Kaufvertrag kommt ausschließlich zwischen dem Teilnehmer und dem jeweiligen Drittanbieter zustande.
 
 ### 5.3 Nutzungsrechte an Kursmaterialien
 

@@ -157,29 +157,6 @@ Rechtsgrundlage für die Einrichtung und Führung des Kundenkontos ist Art. 6 Ab
 
 Sie können Ihr Kundenkonto jederzeit über die entsprechende Funktion auf unserer Website oder durch formlose Mitteilung an info@nalex-german.de löschen lassen. Nach Löschung des Kundenkontos werden die entsprechenden Daten gelöscht, sofern keine gesetzlichen Aufbewahrungspflichten oder sonstigen berechtigten Interessen (z. B. zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen) entgegenstehen.
 
-## 13. Supabase (Datenbank, Authentifizierung und Speicherung)
-
-### 13.1 Umfang der Verarbeitung
-
-Zur technischen Umsetzung unseres Onlineangebots, insbesondere zur Speicherung von Nutzer- und Kursdaten, zur Authentifizierung (z. B. Login in ein Kundenkonto) sowie zur Speicherung von Dateien, setzen wir den Dienst Supabase ein, angeboten durch Supabase, Inc., 970 Toa Payoh North #07-04, Singapur, bzw. dessen europäische Infrastrukturpartner (im Folgenden „Supabase").
-
-Über Supabase werden je nach Nutzung unseres Angebots insbesondere folgende Daten verarbeitet und gespeichert:
-
-- Registrierungs- und Kontodaten (z. B. Name, E-Mail-Adresse, Passwort-Hash)
-- Authentifizierungsdaten (z. B. Sitzungstoken, Anmeldezeitpunkte)
-- Buchungs- und Teilnehmerdaten im Zusammenhang mit unseren Sprachkursen
-- von Nutzern hochgeladene Dateien, soweit eine entsprechende Funktion angeboten wird
-
-### 13.2 Zweck und Rechtsgrundlage
-
-Der Einsatz von Supabase erfolgt zur technischen Bereitstellung der Datenbank-, Authentifizierungs- und Speicherfunktionen unseres Onlineangebots und damit zur Erfüllung der mit Ihnen bestehenden vertraglichen Beziehungen (Art. 6 Abs. 1 lit. b DSGVO) sowie auf Grundlage unseres berechtigten Interesses an einer zuverlässigen, sicheren und skalierbaren technischen Infrastruktur (Art. 6 Abs. 1 lit. f DSGVO).
-
-### 13.3 Auftragsverarbeitung und Drittlandtransfer
-
-Mit Supabase haben wir, soweit erforderlich, einen Vertrag zur Auftragsverarbeitung gemäß Art. 28 DSGVO abgeschlossen. Soweit im Rahmen der Nutzung von Supabase eine Übermittlung personenbezogener Daten in Drittländer außerhalb des Europäischen Wirtschaftsraums erfolgt, stellen wir sicher, dass ein angemessenes Datenschutzniveau besteht, insbesondere durch den Abschluss der EU-Standardvertragsklauseln (Art. 46 Abs. 2 lit. c DSGVO) sowie gegebenenfalls zusätzliche technische und organisatorische Maßnahmen.
-
-Weitere Informationen zum Datenschutz bei Supabase finden Sie unter: https://supabase.com/privacy
-
 ## 14. KI-Funktionen (nur soweit aktiv genutzt)
 
 Sofern wir auf unserer Website optionale, KI-gestützte Funktionen anbieten (beispielsweise zur Unterstützung beim Lernen, zur Beantwortung von Fragen oder zur automatisierten Auswertung von Übungen), kommen diese Funktionen ausschließlich dann zum Einsatz, wenn Sie diese aktiv nutzen bzw. aufrufen.
@@ -251,7 +228,6 @@ Im Rahmen unserer Geschäftstätigkeit geben wir personenbezogene Daten nur dann
 
 - Vercel Inc. (Hosting-Dienstleister, siehe Ziffer 4)
 - IONOS SE (Domainverwaltung, siehe Ziffer 5)
-- Supabase, Inc. bzw. deren europäische Infrastrukturpartner (Datenbank-, Authentifizierungs- und Speicherdienstleister, siehe Ziffer 13)
 - PayPal (Europe) S.à r.l. et Cie, S.C.A. (Zahlungsdienstleister, siehe Ziffer 15), soweit Sie diese Zahlungsart wählen
 - ggf. eingesetzte KI-Dienstleister (siehe Ziffer 14), soweit Sie entsprechende Funktionen aktiv nutzen
 - unser Steuerberater bzw. unsere Buchhaltung, soweit dies zur Erfüllung gesetzlicher Pflichten erforderlich ist

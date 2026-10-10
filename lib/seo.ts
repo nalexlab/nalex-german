@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 
-export const siteUrl = "https://nalex-german.de";
+export const siteUrl = "https://www.nalex-german.de";
 const defaultImage = `${siteUrl}/images/courses/default.jpg`;
 
 const equivalents: Record<string, string> = {

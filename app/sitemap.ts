@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const base = "https://nalex-german.de";
+const base = "https://www.nalex-german.de";
 const paths = [
   "", "/de",
   "/german-courses/a2", "/german-courses/b1-b2", "/professional-german/technical-german",

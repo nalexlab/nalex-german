@@ -13,7 +13,7 @@ export default function ContactForm({ showDirectContactOptions = true, locale }:
   const { lang } = useLanguage();
   const activeLocale: Locale = locale ?? (pathname.startsWith("/de") ? "de" : lang);
   const de = activeLocale === "de";
-  const t = de ? { title: "Sagen Sie uns, wohin Sie möchten.", sub: "Wir antworten innerhalb von zwei Werktagen.", name: "Ihr Name", email: "E-Mail-Adresse", message: "Wobei können wir Ihnen helfen?", send: "Anfrage senden" } : { title: "Tell us where you want to go.", sub: "We will reply within two working days.", name: "Your name", email: "Work email", message: "What can we help with?", send: "Send enquiry" };
+  const t = de ? { title: "Haben Sie Fragen oder möchten Sie einen Kurs buchen?", sub: "Schreiben Sie uns, für welchen Kurs Sie sich interessieren. Wir senden Ihnen die Informationen und das Anmeldeformular.", name: "Ihr Name", email: "E-Mail-Adresse", message: "Wobei können wir Ihnen helfen?", send: "Anfrage senden" } : { title: "Questions or ready to book a course?", sub: "Tell us which course you're interested in. We'll send you the details and registration form.", name: "Your name", email: "Work email", message: "What can we help with?", send: "Send enquiry" };
   const submit = (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
     const data = new FormData(event.currentTarget);

@@ -4,7 +4,7 @@ import { pageMetadata } from "@/lib/seo";
 export const metadata=pageMetadata({path:"/booking",title:"German Courses & Dates",description:"Browse upcoming online German courses, dates, prices and available places at NALEX LAB."});
 
 const courses = [
-  { title: "A2+ Consolidation", schedule: "4 weeks · Mon, Wed, Fri · 12:00–13:30", details: "24 units · €109", included: "Materials included · Course book included" },
+  { title: "A2+ Consolidation", schedule: "4 weeks · Mon, Wed, Fri · 12:00–13:30", details: "24 units · €129", included: "Materials included · Grammar book from an established publisher included (your own copy)" },
   { title: "B1+ Conversation", schedule: "4 weeks · Sat · 11:00–12:30", details: "8 units · €49", included: "Materials included" },
   { title: "Technical German B2+", schedule: "4 weeks · Tue, Thu · 18:00–19:30", details: "16 units · €149", included: "Materials included" },
 ];

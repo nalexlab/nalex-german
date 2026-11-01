@@ -4,7 +4,7 @@ import { pageMetadata } from "@/lib/seo";
 export const metadata=pageMetadata({path:"/de/buchung",locale:"de",title:"Deutschkurse & Termine",description:"Aktuelle Deutschkurse, Starttermine, Preise und freie Plätze bei NALEX LAB ansehen."});
 
 const courses = [
-  { title: "A2+ Vertiefung", schedule: "4 Wochen · Mo, Mi, Fr · 12:00–13:30", details: "24 UE · 109 €", included: "Materialien inklusive · Kursbuch inklusive" },
+  { title: "A2+ Vertiefung", schedule: "4 Wochen · Mo, Mi, Fr · 12:00–13:30", details: "24 UE · 129 €", included: "Materialien inklusive · Grammatikbuch eines renommierten Verlags inklusive (eigenes Exemplar)" },
   { title: "B1+ Konversation", schedule: "4 Wochen · Sa · 11:00–12:30", details: "8 UE · 49 €", included: "Materialien inklusive" },
   { title: "Technisches Deutsch B2+", schedule: "4 Wochen · Di, Do · 18:00–19:30", details: "16 UE · 149 €", included: "Materialien inklusive" },
 ];

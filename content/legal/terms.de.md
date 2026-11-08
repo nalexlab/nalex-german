@@ -1,228 +1,144 @@
 # Allgemeine Geschäftsbedingungen (AGB)
 
-## 1. Geltungsbereich und Anbieter
+Stand: November 2026
+
+## 1. Anbieter und Geltungsbereich
 
 ### 1.1 Anbieter
 
-Diese Allgemeinen Geschäftsbedingungen (nachfolgend „AGB") gelten für sämtliche Verträge über die Buchung von Sprachkursen und sonstigen Kursformaten, die zwischen
-
-Inh. Tatiana Beckmann
-handelnd unter den Bezeichnungen „NALEX German Practice" und „NALEX LAB"
-Luhnenstraße 7
-30559 Hannover
-Deutschland
-
-Telefon: 0511 901223702
-E-Mail: info@nalex-german.de
+Inh. Tatiana Beckmann  
+NALEX LAB  
+Luhnenstraße 7  
+30559 Hannover  
+Deutschland  
+Telefon: 0511 901223702  
+E-Mail: info@nalex-german.de  
 Website: https://nalex-german.de
 
-(nachfolgend „Anbieter") und den Nutzern der Website https://nalex-german.de bzw. den Buchenden eines Kurses (nachfolgend „Teilnehmer" oder „Kunde") geschlossen werden.
+Nachfolgend „NALEX“ oder „Anbieter“ genannt.
 
 ### 1.2 Geltungsbereich
 
-Diese AGB gelten sowohl gegenüber Verbrauchern im Sinne des § 13 BGB als auch gegenüber Unternehmern im Sinne des § 14 BGB, soweit im Folgenden nicht ausdrücklich zwischen beiden Personengruppen unterschieden wird.
+Diese AGB gelten für Verträge über die von NALEX angebotenen Sprachkurse und individuellen Sprachtrainings. Sie gelten gegenüber Verbrauchern im Sinne des § 13 BGB und Unternehmern im Sinne des § 14 BGB, soweit nicht ausdrücklich unterschieden wird. Individuelle Vereinbarungen haben Vorrang. Es gilt die bei Vertragsschluss vereinbarte Fassung der AGB.
 
-### 1.3 Abweichende Bedingungen
+## 2. Leistungen und Unterrichtsformate
 
-Entgegenstehende oder von diesen AGB abweichende Bedingungen des Kunden werden nicht anerkannt, es sei denn, der Anbieter hätte ausdrücklich schriftlich oder in Textform ihrer Geltung zugestimmt.
+### 2.1 Kursangebot und Durchführung
 
-### 1.4 Änderungen
+NALEX bietet Live-Onlineunterricht in Gruppenkursen sowie individuelles technisches Fachsprachtraining an. Die jeweils gebuchte Leistung ergibt sich aus der Kursbeschreibung und der Buchungsbestätigung. Unterricht findet über eine geeignete Videokonferenzplattform statt. Teilnehmende benötigen eine stabile Internetverbindung, ein geeignetes Endgerät und ein Mikrofon; eine Kamera wird empfohlen.
 
-Diese AGB gelten in ihrer zum Zeitpunkt der jeweiligen Buchung auf der Website veröffentlichten Fassung.
+### 2.2 Gruppenkurse mit festgelegtem Beginn
 
-## 2. Vertragsgegenstand
+Bei Gruppenkursen mit festem Beginn ergeben sich Unterrichtsumfang, Termine, Kursinhalte, Preis und enthaltene Materialien aus dem vor Vertragsschluss mitgeteilten Angebot und der Buchungsbestätigung. Die Kursanfrage oder Vormerkung ist unverbindlich. NALEX entscheidet vor einer verbindlichen Buchungsbestätigung, ob der angebotene Kurs durchgeführt wird.
 
-### 2.1 Kursangebot
+Nach verbindlicher Buchungsbestätigung gelten die vereinbarten Termine. Muss NALEX einen bestätigten Kurs absagen oder eine vereinbarte Leistung ausfallen lassen, bleiben die gesetzlichen Ansprüche der Kunden, insbesondere auf Erstattung nicht erbrachter Leistungen, unberührt. Ein Ersatztermin wird nur im gegenseitigen Einvernehmen verbindlich.
 
-Der Anbieter bietet über die Website https://nalex-german.de folgende Leistungen an:
+### 2.3 B1+ Konversation mit flexiblem Einstieg
 
-- Online-Gruppensprachkurse Deutsch als Fremdsprache in verschiedenen Niveaustufen (u. a. A2, B1/B2, C1) in Form von live durchgeführten Videokonferenz-Kursen mit begrenzter Teilnehmerzahl,
-- ergänzende Kursformate entsprechend der jeweiligen Kursbeschreibung,
-- das „Project Simulation Lab" für Ingenieure und technische Fachkräfte,
-- sowie den Zugang zur NALEX Train App und der zugehörigen Lernplattform als Bestandteil der jeweils gebuchten Kurse.
+B1+ Konversation findet samstags von 11:00 bis 12:30 Uhr online statt. Der Einstieg ist nach Anmeldung und Verfügbarkeit an einem Samstag möglich. Die Buchung umfasst vier aufeinanderfolgende Samstage mit insgesamt acht Unterrichtseinheiten à 45 Minuten. Die Kursgebühr beträgt 49 Euro einschließlich der ausgewiesenen Materialien. Der erste Unterrichtstermin wird vor Vertragsschluss bestätigt. Die Buchung endet nach dem vierten vereinbarten Termin ohne automatische Verlängerung. Weitere vier Wochen erfordern eine neue Buchung.
 
-### 2.2 Beschreibung der Leistung
+### 2.4 Technisches Deutsch im Einzeltraining
 
-Die konkreten Inhalte, Termine, Uhrzeiten, Kursdauer, Gruppengröße und Preise der jeweiligen Kurse ergeben sich aus der Leistungsbeschreibung auf der jeweiligen Buchungsseite zum Zeitpunkt der Buchung. Diese Angaben sind Bestandteil des Vertrages.
+Das individuelle Online-Fachsprachtraining richtet sich an Ingenieure und technische Fachkräfte. Es umfasst zwölf Unterrichtseinheiten à 45 Minuten in sechs Terminen à 90 Minuten, grundsätzlich einmal wöchentlich über sechs Wochen. Beginn und Termine werden vor Vertragsschluss individuell vereinbart. Die Lernschwerpunkte werden entsprechend dem technischen Berufsfeld und den vereinbarten sprachlichen Zielen bestimmt. Der Gesamtpreis beträgt 499 Euro einschließlich der Unterrichtsmaterialien. Das Paket endet nach Erbringung der vereinbarten Unterrichtsleistung; es verlängert sich nicht automatisch.
 
-### 2.3 Durchführungsform
+### 2.5 Sonstige Kursformate
 
-Sämtliche Kurse werden, soweit auf der jeweiligen Buchungsseite nicht ausdrücklich anders angegeben, vollständig online über eine geeignete Videokonferenzplattform durchgeführt. Für die Teilnahme benötigt der Teilnehmer ein internetfähiges Endgerät, eine stabile Internetverbindung sowie ein funktionsfähiges Mikrofon; eine Kamera wird empfohlen, ist jedoch nicht zwingend erforderlich, sofern nicht auf der Buchungsseite anders angegeben.
+Für weitere angebotene Kurse gelten die vor Vertragsschluss mitgeteilte Leistungsbeschreibung und die Buchungsbestätigung. Abweichende Einzelheiten, beispielsweise ein im Preis enthaltenes Lehrbuch, sind dort ausgewiesen.
 
-### 2.4 Gruppengröße und Mindestteilnehmerzahl
+## 3. Anfrage, Buchung und Vertragsschluss
 
-Die maximale Gruppengröße und die Mindestteilnehmerzahl ergeben sich aus der jeweiligen Kursbeschreibung auf der Buchungsseite und sind Bestandteil des Vertrages.
+### 3.1 Anfrage und Angebot
 
-Wird die dort angegebene Mindestteilnehmerzahl bis spätestens fünf Kalendertage vor Kursbeginn nicht erreicht, ist der Anbieter berechtigt, den Kurs abzusagen oder den Kursbeginn auf einen späteren Termin zu verschieben.
-
-Im Falle einer Verschiebung wird der Teilnehmer unverzüglich über den neuen Termin informiert. Ist eine Teilnahme am Ersatztermin nicht möglich, kann der Teilnehmer vom Vertrag zurücktreten und erhält bereits geleistete Zahlungen vollständig zurück.
-
-Im Falle einer Absage werden bereits geleistete Zahlungen unverzüglich vollständig erstattet.
-
-Weitergehende Ansprüche bestehen nur, soweit sie gesetzlich zwingend vorgesehen sind.
-
-## 3. Vertragsschluss
-
-### 3.1 Angebot und Buchungsvorgang
-
-Die Darstellung der Kurse auf der Website stellt kein bindendes Angebot des Anbieters dar, sondern eine unverbindliche Aufforderung an den Kunden, ein Angebot zur Buchung abzugeben (invitatio ad offerendum).
-
-Mit Anklicken des jeweiligen Buchungs-Buttons („Book now" bzw. „BOOK NOW") und Abschluss des Zahlungsvorgangs über den bereitgestellten Zahlungsdienstleister gibt der Kunde ein verbindliches Angebot zum Abschluss eines Vertrages über den ausgewählten Kurs ab.
+Die Darstellung der Kurse auf der Website ist unverbindlich. Interessenten können per E-Mail oder über das Kontaktformular eine Anfrage stellen. Damit kommt noch kein Vertrag zustande. Vor einer verbindlichen Buchung teilt NALEX die wesentlichen Bedingungen mit, insbesondere Leistung, Umfang, Termine, Gesamtpreis, Zahlungsbedingungen sowie die AGB und die Widerrufsbelehrung für Verbraucher.
 
 ### 3.2 Vertragsschluss
 
-Der Vertrag kommt zustande, wenn der Anbieter die Buchung des Kunden durch eine Bestätigungs-E-Mail annimmt. Diese Bestätigungs-E-Mail wird dem Kunden in der Regel innerhalb von 24 Stunden nach Zahlungseingang an die von ihm angegebene E-Mail-Adresse übersandt und enthält insbesondere den Zugangslink zur Videokonferenz sowie ggf. weitere Kursunterlagen.
+Die verbindliche Anmeldung erfolgt in Textform. Der Vertrag kommt zustande, wenn NALEX diese Anmeldung ausdrücklich in Textform bestätigt. Die Bestätigung enthält die vereinbarten wesentlichen Vertragsdaten. Mit der bloßen Anfrage, einer Vormerkung oder dem Absenden des Kontaktformulars kommt kein Vertrag zustande. Unterrichtszugänge werden rechtzeitig vor Kursbeginn bereitgestellt.
 
-### 3.3 Speicherung des Vertragstextes
+### 3.3 Vertragsunterlagen
 
-Der Vertragstext wird vom Anbieter nicht gesondert gespeichert und ist nach Abschluss des Buchungsvorgangs für den Kunden nicht mehr über die Website abrufbar. Der Kunde erhält jedoch die wesentlichen Vertragsinhalte (u. a. Kursbezeichnung, Preis, Termin) mit der Bestätigungs-E-Mail sowie ggf. mit der Zahlungsbestätigung des eingesetzten Zahlungsdienstleisters.
+Die für den Vertrag wesentlichen Informationen und die Bestätigung erhält der Kunde per E-Mail oder auf einem anderen dauerhaften Datenträger. Ein Kundenkonto ist zur Buchung nicht erforderlich.
 
-### 3.4 Buchung ohne Registrierung
-
-Eine Buchung ist grundsätzlich ohne vorherige Registrierung eines Kundenkontos möglich. Soweit der Anbieter ein Kundenkonto anbietet, gelten hierfür ergänzend die Regelungen der Datenschutzerklärung.
-
-## 4. Preise und Zahlungsbedingungen
+## 4. Preise und Zahlung
 
 ### 4.1 Preise
 
-Es gelten die zum Zeitpunkt der Buchung auf der jeweiligen Buchungsseite angegebenen Preise. Die angegebenen Kurspreise sind Endpreise. Der Anbieter weist gemäß § 19 UStG (Kleinunternehmerregelung) keine Umsatzsteuer gesondert aus.
+Es gelten die vor Vertragsschluss vereinbarten Gesamtpreise. Gegenüber Verbrauchern werden Endpreise angegeben; soweit Umsatzsteuer anfällt, ist sie darin enthalten. Die umsatzsteuerliche Behandlung und der Rechnungsausweis richten sich nach den jeweils geltenden gesetzlichen Vorschriften.
 
-### 4.2 Zahlungsarten
+### 4.2 Zahlungsbedingungen
 
-Der Kunde kann grundsätzlich zwischen folgenden Zahlungsarten wählen, soweit diese auf der jeweiligen Buchungsseite angeboten werden:
+Die Zahlung erfolgt über die vor Vertragsschluss mitgeteilte Zahlungsmöglichkeit, insbesondere durch Banküberweisung oder eine individuell angebotene PayPal-Zahlung. Soweit nichts anderes vereinbart ist, wird die Kursgebühr vor Unterrichtsbeginn fällig. Für Geschäftskunden können abweichende Zahlungsfristen vereinbart werden. Gesetzliche Regeln zum Zahlungsverzug bleiben unberührt.
 
-**a) PayPal Checkout**
-Bei Zahlung über PayPal erfolgt die Zahlungsabwicklung über den Zahlungsdienstleister PayPal (Europe) S.à r.l. et Cie, S.C.A. Es gelten ergänzend die Nutzungsbedingungen von PayPal. Der Kaufpreis ist sofort mit Abschluss des Buchungsvorgangs fällig.
+## 5. Unterricht, Materialien und Ausfall
 
-**b) Vorkasse per Banküberweisung**
-Bei Zahlung per Vorkasse ist der Rechnungsbetrag nach Erhalt der Zahlungsaufforderung und der mitgeteilten Bankverbindung innerhalb von 5 Werktagen zu überweisen. Die Kursplatzreservierung erfolgt erst nach vollständigem Zahlungseingang beim Anbieter. Erfolgt die Zahlung nicht fristgerecht, kann der Anbieter vom Vertrag zurücktreten und den Kursplatz anderweitig vergeben.
+### 5.1 Unterrichtsmaterialien
 
-**c) Rechnungszahlung für Unternehmen**
-Für Geschäftskunden (Unternehmer im Sinne des § 14 BGB) kann der Anbieter im Einzelfall den Kauf auf Rechnung anbieten. In diesem Fall ist der Rechnungsbetrag innerhalb von 14 Tagen nach Rechnungsdatum ohne Abzug zur Zahlung fällig, soweit auf der Rechnung keine abweichende Zahlungsfrist angegeben ist. Die Gewährung von Rechnungskauf steht im freien Ermessen des Anbieters und kann von einer vorherigen Bonitätsprüfung abhängig gemacht werden.
+Als „inklusive“ ausgewiesene Unterrichtsmaterialien und Lehrbücher sind im vereinbarten Gesamtpreis enthalten. Zusätzliche kostenpflichtige Materialien werden nur geschuldet, wenn dies vor Vertragsschluss ausdrücklich vereinbart wurde.
 
-### 4.3 Zahlungsverzug
+### 5.2 Digitale Zusatzangebote
 
-Befindet sich der Kunde mit einer fälligen Zahlung in Verzug, ist der Anbieter berechtigt, Verzugszinsen in der gesetzlichen Höhe (§ 288 BGB) zu berechnen. Gegenüber Verbrauchern gilt dies vorbehaltlich der gesetzlichen Voraussetzungen des Verzugseintritts.
+Zugang zur NALEX Train App oder zu anderen Lernplattformen ist nur Teil der gebuchten Leistung, wenn dies in der Leistungsbeschreibung oder Buchungsbestätigung ausdrücklich zugesagt wurde.
 
-### 4.4 Aufrechnung und Zurückbehaltungsrecht
+### 5.3 Nutzung der Materialien und Aufzeichnungen
 
-Dem Kunden steht ein Recht zur Aufrechnung nur zu, wenn seine Gegenansprüche rechtskräftig festgestellt, unbestritten oder vom Anbieter anerkannt sind. Ein Zurückbehaltungsrecht kann der Kunde nur insoweit ausüben, als sein Gegenanspruch auf demselben Vertragsverhältnis beruht. Diese Regelung gilt nicht gegenüber Verbrauchern.
+Bereitgestellte Unterlagen dürfen ausschließlich für die persönliche Teilnahme am gebuchten Unterricht genutzt werden. Eine Weitergabe oder öffentliche Veröffentlichung ohne Zustimmung von NALEX ist nicht gestattet. Unterrichtssitzungen dürfen ohne vorherige Zustimmung von NALEX und den betroffenen Personen nicht in Bild oder Ton aufgezeichnet werden. Gesetzlich erlaubte Nutzungen bleiben unberührt.
 
-## 5. Kursdurchführung, Kursmaterialien und NALEX App
+### 5.4 Unterrichtsausfall durch NALEX
 
-### 5.1 Zugang zur NALEX Train App
+Kann NALEX einen vereinbarten Termin nicht durchführen, wird ein Ersatztermin angeboten. Kann eine geschuldete Leistung nicht erbracht werden, gelten die gesetzlichen Ansprüche, insbesondere auf anteilige oder vollständige Rückerstattung. Weitergehende gesetzliche Rechte bleiben unberührt.
 
-Mit jeder Kursbuchung erhält der Teilnehmer für die Dauer des jeweiligen Kurses Zugang zur NALEX Train App sowie zur zugehörigen Lernplattform des Anbieters. Umfang und Funktionsweise ergeben sich aus der jeweiligen Kursbeschreibung.
+## 6. Widerruf, Stornierung und Terminverschiebung
 
-### 5.2 Externe Kursmaterialien
+### 6.1 Gesetzliches Widerrufsrecht
 
-Bei bestimmten Kursformaten ist der eigenständige Erwerb externer Lektüre (z. B. Titel des Klett-Verlags) durch den Teilnehmer erforderlich. Dies wird auf der jeweiligen Buchungsseite ausdrücklich ausgewiesen. Der Erwerb solcher externer Materialien erfolgt auf eigene Kosten des Teilnehmers direkt beim jeweiligen Anbieter der Materialien; ein entsprechender Kaufvertrag kommt ausschließlich zwischen dem Teilnehmer und dem jeweiligen Drittanbieter zustande.
+Verbrauchern steht, soweit gesetzlich vorgesehen, ein Widerrufsrecht gemäß der gesonderten Widerrufsbelehrung zu. Die nachfolgenden vertraglichen Regelungen schränken gesetzliche Widerrufsrechte und andere zwingende Rechte nicht ein. Ein vorzeitiger Beginn innerhalb der Widerrufsfrist ist nur nach den gesetzlichen Voraussetzungen zu behandeln.
 
-### 5.3 Nutzungsrechte an Kursmaterialien
+### 6.2 Freiwillige Stornierung von Gruppenkursen
 
-Sämtliche vom Anbieter zur Verfügung gestellten Kursunterlagen, Materialien, Inhalte der NALEX Train App und der Lernplattform sind urheberrechtlich geschützt. Dem Teilnehmer wird ein einfaches, nicht übertragbares und nicht unterlizenzierbares Nutzungsrecht ausschließlich zum Zweck der persönlichen Teilnahme am gebuchten Kurs eingeräumt. Eine Vervielfältigung, Verbreitung, öffentliche Zugänglichmachung oder Weitergabe an Dritte, auch auszugsweise, ist ohne vorherige schriftliche Zustimmung des Anbieters nicht gestattet.
+Eine bestätigte Buchung eines Gruppenkurses kann bis spätestens sieben Kalendertage vor dem individuell bestätigten ersten Unterrichtstermin kostenfrei storniert werden. Bereits gezahlte Kursgebühren werden vollständig erstattet. Dies gilt auch für B1+ Konversation; maßgeblich ist der bestätigte erste Samstag. Bei einer späteren Stornierung besteht kein zusätzliches vertragliches Recht auf kostenfreie Stornierung. Gesetzliche Rechte bleiben unberührt. Eine Umbuchung kann individuell vereinbart werden.
 
-### 5.4 Aufzeichnungen
+### 6.3 Terminverschiebung beim Einzeltraining
 
-Eine Aufzeichnung der Live-Sitzungen durch Teilnehmer (Bild, Ton oder Bildschirm) ist ohne vorherige ausdrückliche Zustimmung sämtlicher Teilnehmer sowie des Anbieters nicht gestattet.
+Beim individuellen Fachsprachtraining kann ein vereinbarter Einzeltermin bis spätestens 24 Stunden vor seinem Beginn kostenfrei verschoben werden. Ein Ersatztermin wird gemeinsam vereinbart. Bei späterer Absage oder Nichterscheinen besteht kein vertraglicher Anspruch auf einen weiteren kostenfreien Ersatztermin. Ob und in welchem Umfang eine Vergütung für den nicht wahrgenommenen Termin geschuldet ist, bestimmt sich nach den gesetzlichen Vorschriften; insbesondere sind gesetzlich erforderliche Anrechnungen ersparter Aufwendungen oder anderweitigen Erwerbs zu berücksichtigen. Gesetzliche Rechte, insbesondere das Widerrufsrecht, bleiben unberührt.
 
-### 5.5 Terminänderungen aus wichtigem Grund
+### 6.4 Form von Erklärungen und Erstattungen
 
-Der Anbieter behält sich vor, einzelne Kurstermine aus wichtigem Grund (z. B. Erkrankung der Kursleitung, technische Störungen) kurzfristig zu verschieben oder durch eine gleichwertige Ersatzkursleitung durchzuführen. Der Anbieter wird den Kunden hierüber unverzüglich informieren und, soweit möglich, einen Ersatztermin anbieten.
+Stornierungen und Terminwünsche sind per E-Mail an info@nalex-german.de in Textform mitzuteilen. Erstattungen erfolgen ohne unangemessene Verzögerung, bei gesetzlichem Widerruf innerhalb der gesetzlichen Fristen und grundsätzlich über dasselbe Zahlungsmittel, soweit nichts anderes vereinbart ist.
 
-## 6. Stornierung und Widerrufsrecht
+### 6.5 Geschäftskunden
 
-### 6.1 Gesetzliches Widerrufsrecht für Verbraucher
+Für Unternehmer besteht kein gesetzliches Verbraucherwiderrufsrecht. Die vertraglichen Regelungen dieses Abschnitts gelten auch für Unternehmer, sofern nicht individuell etwas anderes vereinbart wurde.
 
-Verbrauchern im Sinne des § 13 BGB steht ein gesetzliches Widerrufsrecht gemäß der gesonderten Widerrufsbelehrung des Anbieters zu, die auf der Website des Anbieters abrufbar und Bestandteil dieser AGB ist. Insbesondere weist der Anbieter darauf hin, dass das Widerrufsrecht bei vollständig erbrachter Dienstleistung vorzeitig erlöschen kann, wenn der Teilnehmer dem vorzeitigen Beginn der Leistung ausdrücklich zugestimmt und seine Kenntnis vom damit verbundenen Verlust des Widerrufsrechts bestätigt hat (§ 356 Abs. 5 BGB).
+## 7. Pflichten der Teilnehmenden
 
-### 6.2 Vertragliche Stornierung
-
-Unabhängig und zusätzlich zum gesetzlichen Widerrufsrecht räumt der Anbieter dem Kunden folgende vertragliche Stornomöglichkeit ein:
-
-**a) Kostenlose Stornierung bis 7 Tage vor Kursbeginn**
-Bei einer Stornierung der Buchung bis spätestens 7 Tage vor dem jeweiligen Kursbeginn wird der bereits gezahlte Kursbetrag vollständig erstattet.
-
-**b) Umbuchung bei späterer Stornierung**
-Erfolgt die Stornierung nach diesem Zeitpunkt, jedoch noch vor Kursbeginn, besteht kein Anspruch auf Erstattung des Kursbetrags. Der Anbieter kann dem Kunden in diesem Fall anbieten, die Buchung auf einen anderen Termin oder eine vergleichbare Kursart umzubuchen. Ein Anspruch auf Umbuchung besteht nicht; die Entscheidung über eine Umbuchung liegt im alleinigen Ermessen des Anbieters.
-
-**c) Ausschluss der Rückerstattung nach Kursbeginn**
-Nach Beginn des gebuchten Kurses ist eine Rückerstattung des Kursbetrags ausgeschlossen. Dies gilt vorbehaltlich des gesetzlichen Widerrufsrechts gemäß Ziffer 6.1, das von dieser Regelung unberührt bleibt.
-
-Die Stornierung oder das Umbuchungsersuchen ist über das Kontaktformular der Website oder per E-Mail an info@nalex-german.de in Textform unter Angabe des Namens, des gebuchten Kursdatums, des Buchungszeitpunkts sowie des Betreffs „Stornierung" bzw. „Umbuchung" zu erklären. Der Anbieter bestätigt den Eingang unverzüglich per E-Mail.
-
-### 6.3 Rückerstattung
-
-Erstattungen nach dieser Ziffer 6 erfolgen auf demselben Weg, auf dem die ursprüngliche Zahlung geleistet wurde, sofern mit dem Kunden nicht ausdrücklich etwas anderes vereinbart wird. Erstattungen erfolgen unverzüglich, spätestens jedoch innerhalb von 14 Tagen nach Zugang der jeweiligen Erklärung bzw. nach Erfüllung der übrigen Voraussetzungen der jeweiligen Regelung.
-
-### 6.4 Keine Anwendung auf Unternehmer
-
-Die Regelungen dieser Ziffer 6, insbesondere das gesetzliche Widerrufsrecht gemäß Ziffer 6.1, finden auf Buchungen von Unternehmern im Sinne des § 14 BGB, die im Rahmen ihrer gewerblichen oder selbständigen beruflichen Tätigkeit handeln, keine Anwendung. Die vertragliche Stornomöglichkeit gemäß Ziffer 6.2 können der Anbieter und der Unternehmer im Einzelfall abweichend vereinbaren.
-
-## 7. Pflichten des Teilnehmers
-
-### 7.1 Technische Voraussetzungen
-
-Der Teilnehmer ist verpflichtet, die für die Teilnahme an einem Online-Kurs erforderlichen technischen Voraussetzungen (internetfähiges Endgerät, stabile Internetverbindung, funktionsfähiges Mikrofon) selbst und auf eigene Kosten sicherzustellen. Der Anbieter übernimmt keine Verantwortung für Störungen, die aus der technischen Ausstattung oder Internetverbindung des Teilnehmers resultieren.
-
-### 7.2 Pünktliche Teilnahme
-
-Der Teilnehmer ist gehalten, pünktlich zu den vereinbarten Kursterminen zu erscheinen. Ein Anspruch auf Nachholung verpasster Kurseinheiten besteht nicht, soweit nicht ausdrücklich etwas anderes vereinbart wurde.
-
-### 7.3 Verhalten im Kurs
-
-Der Teilnehmer verpflichtet sich, sich gegenüber der Kursleitung sowie den übrigen Teilnehmern respektvoll zu verhalten. Der Anbieter behält sich vor, Teilnehmer bei schwerwiegenden oder wiederholten Verstößen gegen diese Pflicht nach vorheriger Abmahnung von der weiteren Kursteilnahme auszuschließen; ein Anspruch auf Erstattung des Kursbetrags besteht in diesem Fall nicht, soweit der Ausschluss vom Teilnehmer zu vertreten ist.
+Die Teilnehmenden sorgen für die unter Ziffer 2.1 genannten technischen Voraussetzungen und nehmen pünktlich am Unterricht teil. Bei selbst versäumten Terminen eines Gruppenkurses besteht grundsätzlich kein Anspruch auf individuellen Nachholunterricht. Beim Einzeltraining gilt Ziffer 6.3. Die Teilnehmenden haben einen respektvollen Umgang miteinander und mit der Kursleitung zu wahren. Gesetzliche Rechte bleiben unberührt.
 
 ## 8. Haftung
 
-### 8.1 Haftung des Anbieters
-
-Der Anbieter haftet unbeschränkt für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit, die auf einer vorsätzlichen oder fahrlässigen Pflichtverletzung des Anbieters, seiner gesetzlichen Vertreter oder Erfüllungsgehilfen beruhen, sowie für sonstige Schäden, die auf einer vorsätzlichen oder grob fahrlässigen Pflichtverletzung des Anbieters, seiner gesetzlichen Vertreter oder Erfüllungsgehilfen beruhen.
-
-### 8.2 Haftung bei einfacher Fahrlässigkeit
-
-Bei der leicht fahrlässigen Verletzung wesentlicher Vertragspflichten (Kardinalpflichten), deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Kunde regelmäßig vertrauen darf, ist die Haftung des Anbieters der Höhe nach auf den bei Vertragsschluss vorhersehbaren, vertragstypischen Schaden begrenzt. Im Übrigen ist die Haftung des Anbieters für leicht fahrlässige Pflichtverletzungen ausgeschlossen.
-
-### 8.3 Haftung für technische Störungen
-
-Der Anbieter haftet nicht für Störungen oder Unterbrechungen der Kursdurchführung, die auf technischen Problemen bei Drittanbietern (z. B. Videokonferenz-Software, Internetprovider) beruhen und vom Anbieter nicht zu vertreten sind. In derartigen Fällen wird der Anbieter sich um eine zeitnahe Ersatzlösung (z. B. Ersatztermin) bemühen.
-
-### 8.4 Haftung nach dem Produkthaftungsgesetz
-
-Die vorstehenden Haftungsbeschränkungen gelten nicht für Ansprüche nach dem Produkthaftungsgesetz sowie für Ansprüche, für die eine verschuldensunabhängige Haftung gesetzlich zwingend vorgeschrieben ist.
+NALEX haftet unbeschränkt bei Vorsatz und grober Fahrlässigkeit sowie für Schäden aus der Verletzung von Leben, Körper oder Gesundheit, die auf einer vorsätzlichen oder fahrlässigen Pflichtverletzung beruhen. Bei leicht fahrlässiger Verletzung wesentlicher Vertragspflichten haftet NALEX begrenzt auf den vorhersehbaren, vertragstypischen Schaden. Im Übrigen ist die Haftung für leicht fahrlässige Pflichtverletzungen ausgeschlossen, soweit gesetzlich zulässig. Zwingende gesetzliche Haftungsregelungen bleiben unberührt.
 
 ## 9. Datenschutz
 
-Die Erhebung, Verarbeitung und Nutzung personenbezogener Daten des Kunden im Rahmen der Vertragsanbahnung und Vertragsdurchführung erfolgt unter Beachtung der geltenden datenschutzrechtlichen Vorschriften. Nähere Informationen hierzu enthält die Datenschutzerklärung des Anbieters, abrufbar auf der Website des Anbieters.
+Informationen zur Verarbeitung personenbezogener Daten enthält die auf der Website veröffentlichte Datenschutzerklärung.
 
-## 10. Streitbeilegung
+## 10. Verbraucherschlichtung
 
-### 10.1 Online-Streitbeilegung
-
-Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS-Plattform) bereit, die unter https://ec.europa.eu/consumers/odr/ erreichbar ist.
-
-### 10.2 Verbraucherschlichtungsstelle
-
-Der Anbieter ist nicht verpflichtet und nicht bereit, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle im Sinne des Verbraucherstreitbeilegungsgesetzes (VSBG) teilzunehmen.
+NALEX ist nicht verpflichtet und nicht bereit, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
 ## 11. Schlussbestimmungen
 
 ### 11.1 Anwendbares Recht
 
-Für sämtliche Verträge zwischen dem Anbieter und dem Kunden gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts (CISG). Bei Verbrauchern gilt diese Rechtswahl nur insoweit, als hierdurch der durch zwingende Bestimmungen des Rechts des Staates gewährte Schutz, in dem der Verbraucher seinen gewöhnlichen Aufenthalt hat, nicht eingeschränkt wird.
+Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts. Für Verbraucher mit gewöhnlichem Aufenthalt außerhalb Deutschlands bleiben zwingende Schutzbestimmungen ihres Aufenthaltsstaates unberührt, soweit sie gesetzlich anwendbar sind.
 
 ### 11.2 Gerichtsstand
 
-Ist der Kunde Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen, ist ausschließlicher Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertragsverhältnis der Sitz des Anbieters in Hamburg. Dies gilt auch, wenn der Kunde keinen allgemeinen Gerichtsstand in Deutschland hat oder seinen Wohnsitz bzw. gewöhnlichen Aufenthalt nach Vertragsschluss ins Ausland verlegt. Zwingende gesetzliche Gerichtsstände für Verbraucher bleiben hiervon unberührt.
+Soweit eine Gerichtsstandsvereinbarung gesetzlich zulässig ist, ist Gerichtsstand Hannover. Zwingende gesetzliche Gerichtsstände, insbesondere für Verbraucher, bleiben unberührt.
 
-### 11.3 Salvatorische Klausel
+### 11.3 Wirksamkeit einzelner Bestimmungen
 
-Sollten einzelne Bestimmungen dieser AGB unwirksam oder undurchführbar sein oder nach Vertragsschluss unwirksam oder undurchführbar werden, bleibt davon die Wirksamkeit der AGB im Übrigen unberührt. An die Stelle der unwirksamen oder undurchführbaren Bestimmung soll diejenige wirksame und durchführbare Regelung treten, deren Wirkungen der wirtschaftlichen Zielsetzung am nächsten kommen, die die Vertragsparteien mit der unwirksamen bzw. undurchführbaren Bestimmung verfolgt haben. Die vorstehenden Bestimmungen gelten entsprechend für den Fall, dass sich die AGB als lückenhaft erweisen.
+Sollte eine Bestimmung dieser AGB unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt. An die Stelle unwirksamer Regelungen treten die gesetzlichen Vorschriften.
 
-### 11.4 Änderungen dieser AGB
+### 11.4 Änderungen
 
-Der Anbieter behält sich vor, diese AGB mit Wirkung für die Zukunft zu ändern, insbesondere um sie an geänderte rechtliche Rahmenbedingungen oder ein verändertes Leistungsangebot anzupassen. Für bereits abgeschlossene Verträge gilt die zum Zeitpunkt des jeweiligen Vertragsschlusses gültige Fassung dieser AGB.
-
----
-
-Stand dieser Allgemeinen Geschäftsbedingungen: Juli 2026
+Für bereits abgeschlossene Verträge gelten die bei Vertragsschluss vereinbarten Bedingungen. Neue Fassungen dieser AGB gelten nur für danach geschlossene Verträge, sofern nicht ausdrücklich und wirksam etwas anderes vereinbart wird.

@@ -28,6 +28,9 @@ type FormatPageProps = {
   schema: { name: string; description: string; price: string; url: string; workload: string };
 };
 
+// Match the technical hero facts panel: 10% white over ink.
+const technicalFactsBackground = "bg-[color-mix(in_srgb,white_10%,theme(colors.ink))]";
+
 export default function SpecialFormatPage({ locale, eyebrow, title, intro, duration, schedule, units, price, purposeTitle, purpose, boundary, audienceTitle, audience, contentTitle, content, included, emphasizeIncluded = false, accent = "course", schema, showIndividualTraining = false }: FormatPageProps) {
   const de = locale === "de";
   const technical = accent === "technical";
@@ -48,7 +51,7 @@ export default function SpecialFormatPage({ locale, eyebrow, title, intro, durat
     </section>
     {technical && showIndividualTraining && (
       <section aria-labelledby="technical-course-approach" className="mx-auto max-w-7xl px-5 pt-16 lg:px-8">
-        <div className="rounded-[2rem] bg-ink px-7 py-10 text-white sm:px-12 sm:py-14 lg:px-16">
+        <div className={`rounded-[2rem] ${technicalFactsBackground} px-7 py-10 text-white sm:px-12 sm:py-14 lg:px-16`}>
           <p className="eyebrow text-lime">{de ? "WARUM NALEX LAB?" : "WHY NALEX LAB?"}</p>
           <h2 id="technical-course-approach" className="display mt-4 max-w-4xl text-4xl font-bold sm:text-5xl">
             {de ? "Aus der Industrie. Für die Projektpraxis." : "Industry experience. Real project communication."}
@@ -65,7 +68,7 @@ export default function SpecialFormatPage({ locale, eyebrow, title, intro, durat
         </div>
       </section>
     )}
-    <section className="mx-auto max-w-7xl px-5 py-24 lg:px-8">{technical && <h2 className="display mb-8 text-4xl font-bold">{de ? "Das trainieren Sie im Gruppenkurs" : "What you practise in the group course"}</h2>}<div className="grid gap-5 lg:grid-cols-3"><article className="rounded-2xl border border-slate-200 p-7"><p className="eyebrow">01</p><CardHeading className="display mt-4 text-3xl font-bold">{purposeTitle}</CardHeading><p className="mt-5 leading-relaxed text-slate-600">{purpose}</p></article><article className="rounded-2xl border border-slate-200 p-7"><p className="eyebrow">02</p><CardHeading className="display mt-4 text-3xl font-bold">{audienceTitle}</CardHeading><p className="mt-5 leading-relaxed text-slate-600">{audience}</p></article><article className={`rounded-2xl p-7 ${technical ? "bg-ink text-white" : "bg-mist"}`}><p className={`eyebrow ${technical ? "text-lime" : ""}`}>03</p><CardHeading className="display mt-4 text-3xl font-bold">{contentTitle}</CardHeading><ul className={`mt-6 space-y-3 ${technical ? "text-slate-300" : "text-slate-600"}`}>{content.map((item) => <li key={item} className="flex gap-3"><Check size={18} className={`mt-0.5 shrink-0 ${technical ? "text-lime" : "text-cobalt"}`} />{item}</li>)}</ul></article></div><div className="mt-8 rounded-2xl border-l-4 border-cobalt bg-mist p-6"><p className="font-semibold text-ink">{boundary}</p></div></section>
+    <section className="mx-auto max-w-7xl px-5 py-24 lg:px-8">{technical && <h2 className="display mb-8 text-4xl font-bold">{de ? "Das trainieren Sie im Gruppenkurs" : "What you practise in the group course"}</h2>}<div className="grid gap-5 lg:grid-cols-3"><article className="rounded-2xl border border-slate-200 p-7"><p className="eyebrow">01</p><CardHeading className="display mt-4 text-3xl font-bold">{purposeTitle}</CardHeading><p className="mt-5 leading-relaxed text-slate-600">{purpose}</p></article><article className={`rounded-2xl border border-slate-200 p-7${technical ? " bg-mist" : ""}`}><p className="eyebrow">02</p><CardHeading className="display mt-4 text-3xl font-bold">{audienceTitle}</CardHeading><p className="mt-5 leading-relaxed text-slate-600">{audience}</p></article><article className={`rounded-2xl p-7 ${technical ? "bg-ink text-white" : "bg-mist"}`}><p className={`eyebrow ${technical ? "text-lime" : ""}`}>03</p><CardHeading className="display mt-4 text-3xl font-bold">{contentTitle}</CardHeading><ul className={`mt-6 space-y-3 ${technical ? "text-slate-300" : "text-slate-600"}`}>{content.map((item) => <li key={item} className="flex gap-3"><Check size={18} className={`mt-0.5 shrink-0 ${technical ? "text-lime" : "text-cobalt"}`} />{item}</li>)}</ul></article></div><div className="mt-8 rounded-2xl border-l-4 border-cobalt bg-mist p-6"><p className="font-semibold text-ink">{boundary}</p></div></section>
     {showIndividualTraining && (
       <section className="mx-auto max-w-7xl px-5 pb-16 lg:px-8">
         <div className="grid gap-8 rounded-[2rem] border border-white/20 bg-[#0f3d26] p-7 text-white sm:p-10 lg:grid-cols-[1.15fr_.85fr] lg:p-12">
@@ -80,7 +83,7 @@ export default function SpecialFormatPage({ locale, eyebrow, title, intro, durat
               {de ? "Einzeltraining anfragen" : "Enquire about individual training"}<ArrowRight size={16} aria-hidden="true" />
             </Link>
           </div>
-          <ul className="grid content-start gap-3 rounded-2xl p-6 text-gray-200 sm:p-8">
+          <ul className={`grid content-start gap-3 rounded-2xl p-6 text-gray-200 sm:p-8${technical ? " " + technicalFactsBackground : ""}`}>
             <li>{de ? "Umfang: 12 UE à 45 Minuten" : "Duration: 12 teaching units of 45 minutes"}</li>
             <li>{de ? "Termine: 6 Termine à 90 Minuten" : "Sessions: 6 sessions of 90 minutes"}</li>
             <li>{de ? "Zeitraum: 6 Wochen, einmal pro Woche" : "Schedule: 6 weeks, once per week"}</li>

@@ -35,7 +35,7 @@ Nach verbindlicher Buchungsbestätigung gelten die vereinbarten Termine. Muss NA
 
 ### 2.3 B1+ Konversation mit flexiblem Einstieg
 
-B1+ Konversation findet samstags von 11:00 bis 12:30 Uhr online statt. Der Einstieg ist nach Anmeldung und Verfügbarkeit an einem Samstag möglich. Die Buchung umfasst vier aufeinanderfolgende Samstage mit insgesamt acht Unterrichtseinheiten à 45 Minuten. Die Kursgebühr beträgt 49 Euro einschließlich der ausgewiesenen Materialien. Der erste Unterrichtstermin wird vor Vertragsschluss bestätigt. Die Buchung endet nach dem vierten vereinbarten Termin ohne automatische Verlängerung. Weitere vier Wochen erfordern eine neue Buchung.
+B1+ Konversation findet samstags von 11:00 bis 12:30 Uhr online statt. Der Einstieg ist nach Anmeldung und Verfügbarkeit an einem Samstag möglich. Die Buchung umfasst vier aufeinanderfolgende Samstage mit insgesamt acht Unterrichtseinheiten à 45 Minuten. Die vier Unterrichtstermine müssen unmittelbar aufeinanderfolgende Samstage sein. Eine freie Auswahl einzelner Termine oder deren beliebige Verteilung auf verschiedene Wochen ist ausgeschlossen. Die Kursgebühr beträgt 49 Euro einschließlich der ausgewiesenen Materialien. Der erste Unterrichtstermin wird vor Vertragsschluss bestätigt. Die Buchung endet nach dem vierten vereinbarten Termin ohne automatische Verlängerung. Weitere vier Wochen erfordern eine neue Buchung.
 
 ### 2.4 Technisches Deutsch im Einzeltraining
 

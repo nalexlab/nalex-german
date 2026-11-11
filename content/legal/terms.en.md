@@ -35,7 +35,7 @@ Once the booking has been confirmed, the agreed dates apply. If NALEX cancels a 
 
 ### 2.3 B1+ Conversation with Flexible Entry
 
-B1+ Conversation takes place online on Saturdays from 11:00 to 12:30. Participants may join on a Saturday after registering, subject to availability. Each booking covers four consecutive Saturdays and eight teaching units of 45 minutes each. The course fee is €49, including the stated materials. The first session date is confirmed before the contract is concluded. The booking ends after the fourth agreed session, without automatic renewal. Participation for another four weeks requires a new booking.
+B1+ Conversation takes place online on Saturdays from 11:00 to 12:30. Participants may join on a Saturday after registering, subject to availability. Each booking covers four consecutive Saturdays and eight teaching units of 45 minutes each. The four sessions must take place on consecutive Saturdays. Participants cannot freely select individual sessions or spread them across different weeks. The course fee is €49, including the stated materials. The first session date is confirmed before the contract is concluded. The booking ends after the fourth agreed session, without automatic renewal. Participation for another four weeks requires a new booking.
 
 ### 2.4 Individual Technical German Training
 
